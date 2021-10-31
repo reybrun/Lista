@@ -31,6 +31,7 @@ https://livelist01.yowi.tv/lista/8327abc87895df4c76db1155435fdca6a3607bbd/master
 http://v3.catcast.tv/content/33816/index.m3u8
 
 
-#EXTINF:-1 tvg-country="AR" tvg-logo="https://pbs.twimg.com/profile_images/1102583282254913538/8h25Ta-z_400x400.png" ,Vorterix
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" ,YO! MTV
 
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1635511263/ei/fpd7YanVOoLm1sQPq9mjwA4/ip/201.179.127.212/id/RA0NU9dqttQ.1/source/yt_live_broadcast/requiressl/yes/tx/24008108/txs/23997970%2C24008108/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/fexp/24001373%2C24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhANabZH2wM08XjKaRARJ2ufZ7bvVnd7yMV3ZqTDyQ9s2eAiAa3RDO0kCMgEFfsWGsKyJ7Id4c-5tiG2iUjJQr81CMmg%3D%3D/file/index.m3u8
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e45c2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dfeb1d80-be28-4be3-b669-23fa79a8aec7&userId=&serverSideAds=true
+
