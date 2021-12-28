@@ -58,6 +58,6 @@ http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/playlist.m3u8
 
 https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png" ,Canal 10 Mar del Plata
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png" ,Canal 10 Mar del Plata (SD)
 
-https://cdn2.zencast.tv:30443/live/canal10smil/playlist.m3u8
+https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10_480p/chunks.m3u8
