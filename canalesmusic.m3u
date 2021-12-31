@@ -48,7 +48,7 @@ https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u
 
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Carolina-TV-en-vivo-Online.png" ,Carolina TV
 
-http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+https://unlimited1-us.dps.live/carolinatv/carolinatv.smil/carolinatv/livestream0/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/820140219341086720/KxASGHYH_400x400.jpg" ,Portal Foxmix TV
 
@@ -65,3 +65,7 @@ https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://static-s.aa-cdn.net/img/gp/20600011275991/OJkUVTP9ivZmCZhDQi7bJm_54sPEEiGHr-JkqDIzPz1lkWdcl4-Av7zYzzw7rqKCcu8=s300?v=1" ,Canal 9
 
 https://d2r6nlw8e5ph9i.cloudfront.net/elnueve/smil:elnueve.smil/chunklist_b2200000.m3u8
+
+#EXTINF:-1 tvg-logo="https://kisskiss.it/wp-content/uploads/2021/11/cropped-logo_kisskiss2.png" ,Kiss Kiss TV
+
+https://59253971be783.streamlock.net/KissKissTV/KissKissTV.stream/chunklist_w1949270324.m3u8
