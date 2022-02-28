@@ -114,8 +114,17 @@ https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sp
 
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/13/NBC_News_Now_2019.svg/revision/latest?cb=20211121022254&path-prefix=es" ,NBC News NOW
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1450699418739482633/BFMNJbw1_400x400.jpg" ,NBC News NOW
 
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.livenowfox.com/img/LiveNOW_LOGO_HORIZONTAL_2_COLOR_RGB_002.png" ,LiveNOW FOX
+
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://payload.cargocollective.com/1/4/146919/13926257/V_BoxedBlackBorder_569.png" ,ABC News Live
+
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+
 
 
