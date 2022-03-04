@@ -125,5 +125,8 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.radio21.de/fileadmin/_processed_/e/e/csm_RADIO-21_TV_Logo_b476b636b9.png" ,Radio 21 TV
+
+https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
 
