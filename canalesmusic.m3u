@@ -137,42 +137,33 @@ http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlo
 
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/" ,ABC News
-
-https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/" ,ABC TV Plus
+#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.abctvplus.png" ,ABC TV Plus
 
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/" ,Foro TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/Logo-ForoTV-2020.png" ,Foro TV
 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/" ,Noticias Caracol
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/EUTJ8RCXsAE9jK-.jpg" ,Noticias Caracol
 
 https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/" ,Fashion TV
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fashion-tv-logo-C333C7A6DD-seeklogo.com.png" ,Fashion TV
 
 https://fashs043.cloudycdn.services/scte/sftv_adapt/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/" ,QMusic
+#EXTINF:-1 tvg-logo="https://muziekopjewerk.nl/wp-content/uploads/2021/03/Qmusic_radio_logo.png" ,QMusic
 
 https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/" ,California Music Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" ,California Music Channel
 
 https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/" ,V2Beat TV
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1326613295772692480/idsLk-SY_400x400.png" ,V2Beat TV
 
 https://abr.de1se01.v2beat.live/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/" ,Kronehit
-
-https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
-
 
 
 
