@@ -125,6 +125,10 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://rewindtv.cl/wp-content/uploads/2021/12/ICON-33-1.png" ,Rewind
+
+https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.radio21.de/fileadmin/_processed_/e/e/csm_RADIO-21_TV_Logo_b476b636b9.png" ,Radio 21 TV
 
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
@@ -172,7 +176,6 @@ https://d3junmnzdfp8ej.cloudfront.net/hls/tv.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" ,Claro Sports
 
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=2800000.m3u8
-
 
 
 
