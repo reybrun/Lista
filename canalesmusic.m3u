@@ -133,7 +133,7 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/971359833826918400/G1aAQGO-_400x400.jpg" ,BBC Radio 1
+#EXTINF:-1 tvg-logo="https://www.ibizarocks.com/wp-content/uploads/2020/04/1200px-BBC_Radio_1.png" ,BBC Radio 1
 
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
 
@@ -208,3 +208,7 @@ https://cntlnk-main-edge-access.secure.footprint.net/b16/ngrp:c7_vivo01_dai_sour
 #EXTINF:-1 tvg-logo="https://statics-files.tycsports.com/frontend/tycsportsplay/img/site_image.jpg" ,TyC Sports 2
 
 https://edge-live11-hr.cvattv.com.ar/live/c3eds/Eventos1HD/SA_SAGEMCOM/Eventos1HD.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" ,Red Uno
+
+https://stream-01.nyc.dailymotion.com/sec(YDiRVmci6dFcTAVfdXnSLkkcWUgef6uXKY4xP-mPIf0)/dm/3/x828xvr/d/live-2.m3u8
