@@ -289,7 +289,7 @@ http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(A24)/i
 
 http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(Telefe_MDQ)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Investigation_Discovery_Logo_2020.png/800px-Investigation_Discovery_Logo_2020.png" ,Investigation Discovery
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Investigation_Discovery_LA_2020_Rojo_2D.png/revision/latest/scale-to-width-down/800?cb=20200923135820&path-prefix=es" ,ID
 
 http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(ID_HD)/index.m3u8
 
