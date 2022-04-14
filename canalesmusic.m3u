@@ -5,9 +5,9 @@
 
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
-#EXTINF:-1 tvg-country="PE" tvg-logo="https://img.webme.com/pic/e/eric-cast/bestcable2.jpg" ,Best Cable Music
+#EXTINF:-1 tvg-country="PE" tvg-logo="https://bestcableperu.com.pe/img/logo/logo2.png" ,Best Cable Music
 
-https://tv.siete.us/bestcablemusic/bestcablemusic/index.m3u8
+https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" ,MTV YO!
 
@@ -325,4 +325,6 @@ http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(FoodNe
 
 http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(National_Geographic_HD)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQya4OH0eWEfVHRQw42EOQRrls61lsldyeppo9G=s900" ,Best Cable TV
 
+https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
