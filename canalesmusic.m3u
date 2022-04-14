@@ -305,9 +305,13 @@ http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(MTV_LI
 
 http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(HBO_HD)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/H9hI9znec8mkXG-6keaGs0MiA6Mwr_3tpjGJibS1-GzSKzNxgw3IyPNY-Eg-au-_qwJs" ,C5N
 
+http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(C5N)/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/LN_.png/revision/latest?cb=20210527214720&path-prefix=es" ,La Nación +
 
+http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(LN_MAS)/index.m3u8
 
 
 
