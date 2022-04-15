@@ -328,3 +328,7 @@ http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(Nation
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQya4OH0eWEfVHRQw42EOQRrls61lsldyeppo9G=s900" ,Best Cable TV
 
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/FX_Turkey_logo.svg/800px-FX_Turkey_logo.svg.png?20190920225655" ,FX
+
+http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(FX_HD)/index.m3u8
