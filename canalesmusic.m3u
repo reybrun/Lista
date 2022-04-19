@@ -45,7 +45,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b
 
 https://5dcc6a54d90e8c5dc4345c16-s-4.ssai.zype.com/5dcc6a54d90e8c5dc4345c16-s-4/manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.hexabrain.com/assets/images/Logos/Loop%20Media.png" ,Loop 80s
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/loop-80s-us.png" ,Loop 80s
 
 https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/f4ac9870-1d19-4af3-b073-f86837769a21/4.m3u8
 
@@ -279,7 +279,7 @@ https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNot
 
 #EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-RjXsOFCUJa0/WbWZpQWlwZI/AAAAAAAABnA/vAeBWck6LNw4HpNBxdg5unnmIbpYXo1GgCLcBGAs/s1600/cronica-hd.png" ,Crónica TV
 
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(Cronica_TV)/index.m3u8
+https://edge1-hr.cvattv.com.ar/live/c3eds/CronicaTV/SA_SAGEMCOM/CronicaTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-DlQDYNOlyNw/X0Q1JOpHe3I/AAAAAAAA6Jk/WkwbRbCiSiQ7oEUVEpLIx2UFYmM3zs3iACLcBGAsYHQ/s0/a24-logo2019.png" ,A24
 
@@ -295,7 +295,7 @@ http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(ID_HD)
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/471?cb=20211213232008&path-prefix=es" ,History Channel
 
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(History_Channel_HD)/index.m3u8
+http://edge1.stg.cvattv.com.ar/live/live2/HistoryHD/SA_Live_fta/HistoryHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/800px-MTV_Live_2021_logo.svg.png" ,MTV Live
 
@@ -369,6 +369,10 @@ http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(TCM)/i
 
 http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(Discovery_Channel_HD)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1511304782429962242/llB-5Msw_400x400.jpg" ,Vorterix
+#EXTINF:-1 tvg-logo="https://imgsvr.radiocut.site/get/thumb/900/900/radio_logos/07/f1/07f1440c-1480-4c20-ba3b-4f0913388998.png" ,Vorterix
 
 https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_SAGEMCOM/Vorterix.m3u8
+
+#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/loop-90s-us.png" ,Loop 90s
+
+https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
