@@ -207,7 +207,7 @@ https://edge-live11-hr.cvattv.com.ar/live/c3eds/Eventos1HD/SA_SAGEMCOM/Eventos1H
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" ,Red Uno
 
-http://136.243.3.70:1935/RedUno/RedUno/chunks.m3u8
+https://stmv.panel.grupolimalive.com/frecuencia/frecuencia/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_07/1635339829_g4371-copia.png.60942d438030098e8f96bb76c5035349.png" ,DeporTV
 
