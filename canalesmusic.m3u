@@ -237,7 +237,7 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/south_park/south_park_PNG35.png" ,South Park
+#EXTINF:-1 tvg-logo="https://stadt-bremerhaven.de/wp-content/uploads/2021/07/Pluto-TV-South-Park.jpg" ,South Park
 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
