@@ -388,3 +388,7 @@ https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 #EXTINF:-1 tvg-logo="https://cdn.boletius.com/images/1561739210265-al-09.png" ,Flow Music XP
 
 https://edge4-sl.cvattv.com.ar/live/c7eds/Flow_Music_XP/SA_SAGEMCOM/Flow_Music_XP.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vp19FQ2/cicanlogo.png" ,Cinecanal
+
+https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3u8
