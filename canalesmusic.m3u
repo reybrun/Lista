@@ -281,7 +281,7 @@ https://edge6-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 
 http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(Telefe_MDQ)/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Investigation_Discovery_LA_2020_Rojo_2D.png/revision/latest/scale-to-width-down/800?cb=20200923135820&path-prefix=es" ,ID
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WyMHJQ8/idlogo2.png" ,ID
 
 https://edge6-hr.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 
@@ -297,7 +297,7 @@ https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 https://edge6-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/LN_.png/revision/latest?cb=20210527214720&path-prefix=es" ,La Nación +
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Jt7Dbtx/lnlogo2.png" ,La Nación +
 
 https://edge6-hr.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
 
@@ -325,7 +325,7 @@ https://edge6-hr.cvattv.com.ar/live/c7eds/MTV00/SA_SAGEMCOM/MTV00.m3u8
 
 https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9d/Paramount_Network_%28Blue%29_Logo.png" ,Paramount Network
+#EXTINF:-1 tvg-logo="https://i.ibb.co/87GPDSC/parnetlogo.png" ,Paramount Network
 
 https://edge6-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
