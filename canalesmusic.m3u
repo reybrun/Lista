@@ -376,3 +376,7 @@ https://edge6-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/500px-MuchMusicLA_%282007%29.svg.png" ,MuchMusic
 
 https://edge6-hr.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" ,Studio Universal
+
+https://edge6-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
