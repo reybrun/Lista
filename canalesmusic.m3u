@@ -385,6 +385,16 @@ https://edge6-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Un
 
 https://edge6-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD-avc1_1499968=10001-mp4a_30000_spa=20002.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Food_Network_logo.svg/500px-Food_Network_logo.svg.png" ,Food Network
+#EXTINF:-1 tvg-logo="https://www.acaciophone.com/wp-content/uploads/2021/05/Canal-Food-Network.png" ,Food Network
 
 https://edge6-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/500px-MTV_Hits_2021.svg.png" ,MTV Hits
+
+https://edge6-hr.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/500px-Fox_News_Channel_logo.svg.png" ,Fox News
+
+https://edge6-hr.cvattv.com.ar/live/c6eds/Fox_News/SA_SAGEMCOM/Fox_News.m3u8
+
+
