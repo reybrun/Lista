@@ -57,10 +57,6 @@ https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u
 
 https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2020/06/1HD_Music_Television_Logo.png" ,1HD Music Television
-
-https://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png" ,Canal 10 Mar del Plata
 
 https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10/chunks.m3u8
@@ -151,7 +147,7 @@ https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" ,Fashion TV
 
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7bPZTzk/logog22.jpg" ,QMusic
 
@@ -340,10 +336,6 @@ https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/Discover
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bs7C9ft/vortexlogo.png" ,Vorterix
 
 https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_SAGEMCOM/Vorterix.m3u8
-
-#EXTINF:-1 tvg-logo="http://cdn.teleon.tv/logo/loop-90s-us.png" ,Loop 90s
-
-https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/119ce253-711d-49ff-bb82-9fa4ca659b27/5.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRyCHFK/zaplo.png" ,Zapping Music
 
