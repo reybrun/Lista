@@ -85,7 +85,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?
 
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
-#EXTINF:-1 tvg-logo="https://www.fubo.tv/lp/TyC-Sports/images/tyc-logo.png" ,TyC Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/800px-TyC_Sports_logo.svg.png" ,TyC Sports
 
 https://cdn.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
@@ -125,7 +125,7 @@ https://tls-cl.cdnz.cl/rewindtv/live/playlist.m3u8
 
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.ibizarocks.com/wp-content/uploads/2020/04/1200px-BBC_Radio_1.png" ,BBC Radio 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KW0TgS7/bbc1.png" ,BBC Radio 1
 
 http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
 
