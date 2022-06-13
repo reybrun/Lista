@@ -95,11 +95,11 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yt3zz8B/4-ESPNPremium.png" ,ESPN Premium
 
-https://cdn.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCOM/Fox_Sports_Premiun_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tni-static-assets/tntsports-images/prod/Channel+-TNT+Sports+Arg.png" ,TNT Sports
 
-https://cdn.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5ace85bdb27e39ff54b7b2b2/1614982784839-3W02F0E9T1ZGR0HWF0OF/Cnn_logo_PNG5.png" ,CNN
 
@@ -387,7 +387,7 @@ https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/500px-Fox_News_Channel_logo.svg.png" ,Fox News
 
-https://cdn.cvattv.com.ar/live/c6eds/Fox_News/SA_SAGEMCOM/Fox_News.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c6eds/Fox_News/SA_SAGEMCOM/Fox_News.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_m.png" ,HGTV
 
