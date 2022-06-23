@@ -87,7 +87,7 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,TyC Sports
 
-https://cdn.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/TyCSport/SA_SAGEMCOM/TyCSport.m3u8
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEdDEJwGLS7zMWhaCzYeVmJAtwvho7Da6UdTuytzRTSBh7f6oBYAhZRu44d6u1gehWA&usqp=CAU" ,Kerrang TV
 
@@ -183,7 +183,7 @@ https://edge-live12-sl.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports.
 
 #EXTINF:-1 tvg-logo="https://futbollibre.net/img/logo-canal/ESPN_2.png" ,ESPN 2
 
-https://cdn.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
+https://edge-mix01-cen.cvattv.com.ar/live/c6eds/ESPN2_Arg/SA_SAGEMCOM/ESPN2_Arg.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QDWBZrB/esp3.png" ,ESPN 3
 
@@ -211,7 +211,7 @@ https://edge2-ccast-sl.cvattv.com.ar/live/c3eds/DeporTVHD/SA_SAGEMCOM/DeporTVHD.
 
 #EXTINF:-1 tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple116/v4/9f/cb/7b/9fcb7bf0-5c0a-b28e-7d29-61a8fa5d4b00/source/500x500bb.jpg" ,Canal Flow 2 (Eventos)
 
-https://cdn.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_SAGEMCOM/Eventos_2_HD.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c6eds/Eventos_2_HD/SA_SAGEMCOM/Eventos_2_HD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/500px-CGTN.svg.png" ,CGTN
 
@@ -251,59 +251,55 @@ https://edge-live11-hr.cvattv.com.ar/live/c7eds/ComedyCentral/SA_SAGEMCOM/Comedy
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" ,TNT
 
-https://cdn.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/TNT_HD_Arg/SA_SAGEMCOM/TNT_HD_Arg.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,América TV
 
-https://cdn.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/AmericaTV/SA_SAGEMCOM/AmericaTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
 
-https://cdn.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/Canal9/SA_SAGEMCOM/Canal9.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN
 
-https://cdn.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/TodoNoticias/SA_SAGEMCOM/TodoNoticias.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W6QsSQV/cronicalogo.png" ,Crónica TV
 
-https://cdn.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV-avc1_2499968=10001-mp4a_145200_spa=20000.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c7eds/CronicaTV/SA_SAGEMCOM/CronicaTV-avc1_2499968=10001-mp4a_145200_spa=20000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C0RPPp6/a24logoar2.png" ,A24
 
-https://cdn.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/61/Telefe_Mar_del_Plata_%282018%29.png" ,Telefe Mar del Plata
-
-http://arlocaltstvhls.lcdn.clarotv.com.ar/Content/HLS_HLS_FK/Live/channel(Telefe_MDQ)/index.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c7eds/America24/SA_SAGEMCOM/America24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WyMHJQ8/idlogo2.png" ,ID
 
-https://cdn.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c7eds/ID/SA_SAGEMCOM/ID.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/471?cb=20211213232008&path-prefix=es" ,History Channel
 
-https://cdn.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c7eds/HistoryHD/SA_SAGEMCOM/HistoryHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/HBO_blanco.png/revision/latest?cb=20220106150908&path-prefix=es" ,HBO
 
-https://cdn.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/HBOHD/SA_SAGEMCOM/HBOHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qyNR8M/c5log.jpg" ,C5N
 
-https://cdn.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c7eds/C5N/SA_SAGEMCOM/C5N.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,La Nación +
 
-https://cdn.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c7eds/La_Nacion/SA_SAGEMCOM/La_Nacion.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" ,Space
 
-https://cdn.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/Space/SA_SAGEMCOM/Space.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.pngsumo.com/national-geographic-logo-png-transparent-national-geographic-logo-nat-geo-png-hd-1000_309.png" ,National Geographic
 
-https://cdn.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/NatGeoHD/SA_SAGEMCOM/NatGeoHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQya4OH0eWEfVHRQw42EOQRrls61lsldyeppo9G=s900" ,Best Cable TV
 
@@ -311,11 +307,11 @@ https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRTV88f/fxlogoar.png" ,FX
 
-https://cdn.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/FXHD/SA_SAGEMCOM/FXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" ,MTV 00s
 
-https://cdn.cvattv.com.ar/live/c7eds/MTV00/SA_SAGEMCOM/MTV00.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c7eds/MTV00/SA_SAGEMCOM/MTV00.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bF8WN0v/axstvnowlogo.jpg" ,AXS TV Now
 
@@ -323,11 +319,11 @@ https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/87GPDSC/parnetlogo.png" ,Paramount Network
 
-https://cdn.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c7eds/Paramount/SA_SAGEMCOM/Paramount.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/800px-TCM_Latam_logo.svg.png" ,TCM
 
-https://cdn.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c6eds/TCM/SA_SAGEMCOM/TCM.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_10/small.1376146781_DiscoveryChannel(2019-).png.70b5ff7a8617765cd9b83c9a385d854e.png" ,Discovery Channel
 
@@ -335,7 +331,7 @@ https://edge6-ccast-sl.cvattv.com.ar/live/c3eds/DiscoveryHD/SA_SAGEMCOM/Discover
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bs7C9ft/vortexlogo.png" ,Vorterix
 
-https://cdn.cvattv.com.ar/live/c6eds/Vorterix/SA_SAGEMCOM/Vorterix.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c6eds/Vorterix/SA_SAGEMCOM/Vorterix.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRyCHFK/zaplo.png" ,Zapping Music
 
@@ -351,7 +347,7 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/FoxSports3HD/SA_SAGEMCOM/FoxSports3HD.
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m6cM4rP/starchalogoar.png" ,Star Channel
 
-https://cdn.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/FOXHD/SA_SAGEMCOM/FOXHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.boletius.com/images/1561739210265-al-09.png" ,Flow Music XP
 
@@ -363,27 +359,27 @@ https://edge4-sl.cvattv.com.ar/live/c3eds/CinecanalHD/SA_SAGEMCOM/CinecanalHD.m3
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony
 
-https://cdn.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c7eds/SonyHD/SA_SAGEMCOM/SonyHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/MuchMusicLA_%282007%29.svg/500px-MuchMusicLA_%282007%29.svg.png" ,MuchMusic
 
-https://cdn.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c6eds/Much_Music/SA_SAGEMCOM/Much_Music.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" ,Studio Universal
 
-https://cdn.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c6eds/Studio_Universal/SA_SAGEMCOM/Studio_Universal.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Discovery_H%26H_Logo_2022.webp/500px-Discovery_H%26H_Logo_2022.webp.png" ,Discovery Home & Health
 
-https://cdn.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c3eds/DiscoveryHomeHealthHD/SA_SAGEMCOM/DiscoveryHomeHealthHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.acaciophone.com/wp-content/uploads/2021/05/Canal-Food-Network.png" ,Food Network
 
-https://cdn.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c6eds/Food_Network/SA_SAGEMCOM/Food_Network.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/MTV_Hits_2021.svg/500px-MTV_Hits_2021.svg.png" ,MTV Hits
 
-https://cdn.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c6eds/MTV_Hits/SA_SAGEMCOM/MTV_Hits.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/500px-Fox_News_Channel_logo.svg.png" ,Fox News
 
@@ -391,7 +387,7 @@ https://edge-live11-hr.cvattv.com.ar/live/c6eds/Fox_News/SA_SAGEMCOM/Fox_News.m3
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_m.png" ,HGTV
 
-https://cdn.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
+https://edge-live11-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home_and_Garden.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4kDshJ/miatvlog.png" ,Miami TV
 
