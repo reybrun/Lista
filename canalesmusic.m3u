@@ -392,3 +392,7 @@ https://edge-live16-hr.cvattv.com.ar/live/c7eds/Home_and_Garden/SA_SAGEMCOM/Home
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4kDshJ/miatvlog.png" ,Miami TV
 
 https://5ee7c2b857b7f.streamlock.net/latino/latino/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg/800px-Logo_de_CNN_en_Espa%C3%B1ol_%282010-2015%29.svg.png" ,CNN en Español
+
+https://edge-live16-hr.cvattv.com.ar/live/c6eds/CNN_en_Espanol/SA_SAGEMCOM/CNN_en_Espanol.m3u8
