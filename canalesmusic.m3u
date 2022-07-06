@@ -101,6 +101,10 @@ https://edge-live16-hr.cvattv.com.ar/live/c3eds/Fox_Sports_Premiun_HD/SA_SAGEMCO
 
 https://edge-live16-hr.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_SAGEMCOM/TNT_Sports_HD.m3u8
 
+#EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tni-static-assets/tntsports-images/prod/Channel+-TNT+Sports+Arg.png" ,TNT Sports 2
+
+https://latamlive.warnermediacdn.com/hls/live/2042062/arg_tnt_sports/VIDEO_1_5128000.m3u8
+
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5ace85bdb27e39ff54b7b2b2/1614982784839-3W02F0E9T1ZGR0HWF0OF/Cnn_logo_PNG5.png" ,CNN
 
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
