@@ -243,7 +243,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/500px-Telefe_%28nuevo_logo%29.png" ,Telefe
 
-https://edge-live16-hr.cvattv.com.ar/live/c3eds/TelefeHD/SA_SAGEMCOM/TelefeHD.m3u8
+https://edge1.prepro.cvattv.com.ar/live/vod/TelefeHD/SA_Live_WebVTT_FTA/TelefeHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/MTV_Logo_Flat_RGB_White.png" ,MTV
 
