@@ -97,10 +97,6 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yt3zz8B/4-ESPNPremium.png" ,ESPN Premium
-
-https://edge1.prepro.cvattv.com.ar/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5ace85bdb27e39ff54b7b2b2/1614982784839-3W02F0E9T1ZGR0HWF0OF/Cnn_logo_PNG5.png" ,CNN
 
 https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
@@ -208,18 +204,6 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/500px-Telefe_%28nuevo_logo%29.png" ,Telefe
 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
-
-#EXTINF:-1 tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__no_bkgrnd-01.png?height=720" ,Comedy Central
-
-https://edge1.prepro.cvattv.com.ar/live/vod/ComedyCentral/SA_Live_WebVTT_FTA/ComedyCentral.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/W6QsSQV/cronicalogo.png" ,Crónica TV
-
-https://edge1.prepro.cvattv.com.ar/live/vod/CronicaTV/SA_Live_WebVTT_FTA/CronicaTV.m3u8
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/HBO_blanco.png/revision/latest?cb=20220106150908&path-prefix=es" ,HBO
-
-https://edge1.prepro.cvattv.com.ar/live/vod/HBOHD/SA_Live_WebVTT_FTA/HBOHD.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQya4OH0eWEfVHRQw42EOQRrls61lsldyeppo9G=s900" ,Best Cable TV
 
