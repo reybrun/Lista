@@ -57,10 +57,6 @@ https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u
 
 https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ef/Canal_10_Mar_del_Plata_logo_noviembre_2021.png" ,Canal 10 Mar del Plata
-
-https://cdn2.zencast.tv:30443/live/canal10smil/live/canal10/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" ,Canal 26
 
 https://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist.m3u8
