@@ -71,11 +71,43 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6087c6c5db549e0007eead
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece
 
-https://cvi.cdn.rcs.net.ar/mnp/el13_hls/track_1_500/playlist.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
+
+https://cvi.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
+
+https://cvi.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,América TV
+
+https://cvi.cdn.rcs.net.ar/mnp/america_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,TyC Sports
 
 https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Fox_Sports_2012.png/revision/latest/scale-to-width-down/640?cb=20200106171029&path-prefix=es" ,Fox Sports
+
+https://cvi.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" ,Fox Sports 2
+
+https://cvi.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zrLmzBK/fs3logo.png" ,Fox Sports 3
+
+https://cvi.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png" ,ESPN
+
+https://cvi.cdn.rcs.net.ar/mnp/espn_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://futbollibre.net/img/logo-canal/ESPN_2.png" ,ESPN 2
+
+https://cvi.cdn.rcs.net.ar/mnp/espn2_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yt3zz8B/4-ESPNPremium.png" ,ESPN Premium
 
@@ -201,6 +233,58 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LRTV88f/fxlogoar.png" ,FX
+
+https://cvi.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" ,Space
+
+https://cvi.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" ,TNT
+
+https://cvi.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__no_bkgrnd-01.png?height=720" ,Comedy Central
+
+https://cvi.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/HBO_blanco.png/revision/latest?cb=20220106150908&path-prefix=es" ,HBO
+
+https://cvi.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FUhZyPSXoAAisK1.png" ,HBO 2
+
+https://cvi.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" ,HBO Plus
+
+https://cvi.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q73TJ09/cclogo.png" ,Cinecanal
+
+https://cvi.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/87GPDSC/parnetlogo.png" ,Paramount Network
+
+https://cvi.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony
+
+https://cvi.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/800px-TCM_Latam_logo.svg.png" ,TCM
+
+https://cvi.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/471?cb=20211213232008&path-prefix=es" ,History Channel
+
+https://cvi.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/MTV_Logo_Flat_RGB_White.png" ,MTV
+
+https://cvi.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQya4OH0eWEfVHRQw42EOQRrls61lsldyeppo9G=s900" ,Best Cable TV
 
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
@@ -217,7 +301,18 @@ https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
 
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN
+
+https://cvi.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W6QsSQV/cronicalogo.png" ,Crónica TV
+
+https://cvi.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0RPPp6/a24logoar2.png" ,A24
+
+https://cvi.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4kDshJ/miatvlog.png" ,Miami TV
 
 https://5ee7c2b857b7f.streamlock.net/latino/latino/chunklist.m3u8
-
