@@ -71,7 +71,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6087c6c5db549e0007eead
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece
 
-https://cvi.cdn.rcs.net.ar/mnp/el13_hls/playlist.m3u8
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
 
@@ -79,11 +79,11 @@ https://cvi.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
 
-https://cvi.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,América TV
 
-https://cvi.cdn.rcs.net.ar/mnp/america_hls/playlist.m3u8
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,TyC Sports
 
@@ -91,7 +91,7 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Fox_Sports_2012.png/revision/latest/scale-to-width-down/640?cb=20200106171029&path-prefix=es" ,Fox Sports
 
-https://cvi.cdn.rcs.net.ar/mnp/fox_sports_hls/playlist.m3u8
+https://cvi.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" ,Fox Sports 2
 
@@ -225,9 +225,13 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m6cM4rP/starchalogoar.png" ,Star Channel
+
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRTV88f/fxlogoar.png" ,FX
 
-https://cvi.cdn.rcs.net.ar/mnp/fx_hls/playlist.m3u8
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" ,Space
 
@@ -275,7 +279,7 @@ https://cvi.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/MTV_Logo_Flat_RGB_White.png" ,MTV
 
-https://cvi.cdn.rcs.net.ar/mnp/mtv_hls/playlist.m3u8
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQya4OH0eWEfVHRQw42EOQRrls61lsldyeppo9G=s900" ,Best Cable TV
 
@@ -299,11 +303,11 @@ https://cvi.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W6QsSQV/cronicalogo.png" ,Crónica TV
 
-https://cvi.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/C0RPPp6/a24logoar2.png" ,A24
 
-https://cvi.cdn.rcs.net.ar/mnp/a24_hls/playlist.m3u8
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4kDshJ/miatvlog.png" ,Miami TV
 
