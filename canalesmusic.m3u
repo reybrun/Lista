@@ -101,6 +101,18 @@ https://cvi.cdn.rcs.net.ar/mnp/fox_sport2_hls/playlist.m3u8
 
 https://cvi.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png" ,ESPN
+
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+
+#EXTINF:-1 tvg-logo="https://futbollibre.net/img/logo-canal/ESPN_2.png" ,ESPN 2
+
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QDWBZrB/esp3.png" ,ESPN 3
+
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yt3zz8B/4-ESPNPremium.png" ,ESPN Premium
 
 https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
@@ -235,11 +247,11 @@ https://lab.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" ,Space
 
-https://cvi.cdn.rcs.net.ar/mnp/space_hls/playlist.m3u8
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" ,TNT
 
-https://cvi.cdn.rcs.net.ar/mnp/tnt_hls/playlist.m3u8
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 
 #EXTINF:-1 tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__no_bkgrnd-01.png?height=720" ,Comedy Central
 
@@ -259,7 +271,7 @@ https://cvi.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q73TJ09/cclogo.png" ,Cinecanal
 
-https://cvi.cdn.rcs.net.ar/mnp/cinecanal_hls/playlist.m3u8
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/87GPDSC/parnetlogo.png" ,Paramount Network
 
@@ -267,15 +279,23 @@ https://cvi.cdn.rcs.net.ar/mnp/paramount_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony
 
-https://cvi.cdn.rcs.net.ar/mnp/sony_hls/playlist.m3u8
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/800px-TCM_Latam_logo.svg.png" ,TCM
 
 https://cvi.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" ,Studio Universal
+
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WyMHJQ8/idlogo2.png" ,ID
+
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/471?cb=20211213232008&path-prefix=es" ,History Channel
 
-https://cvi.cdn.rcs.net.ar/mnp/history_hls/playlist.m3u8
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/MTV_Logo_Flat_RGB_White.png" ,MTV
 
