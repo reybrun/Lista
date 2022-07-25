@@ -293,6 +293,10 @@ https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_
 
 https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
 
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_m.png" ,HGTV
+
+https://lab.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
+
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/471?cb=20211213232008&path-prefix=es" ,History Channel
 
 https://lab.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel.m3u8
