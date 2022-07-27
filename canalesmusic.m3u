@@ -305,6 +305,10 @@ https://lab.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_
 
 https://lab.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/MTV_90s_logo.png/500px-MTV_90s_logo.png" ,MTV 90s
+
+http://163.172.186.160:8082/xG1/live/mtvrock.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ny8yNy8yMDIyIDQ6NDc6NDcgQU0maGFzaF92YWx1ZT0wVlF6OE1zUkVSRk9EeTNkTEhmZzhRPT0mdmFsaWRtaW51dGVzPTE4MCZpcD0yMDEuMTc5Ljk2LjE4MCZjaGVja2lwPXRydWU=
+
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQya4OH0eWEfVHRQw42EOQRrls61lsldyeppo9G=s900" ,Best Cable TV
 
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
