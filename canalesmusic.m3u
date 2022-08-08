@@ -183,7 +183,7 @@ https://mdstrm.com/live-stream-playlist_800/58dc3d471cbe05ff3c8e463e.m3u8
 
 #EXTINF:-1 tvg-logo="https://mayonnaise-media.com/wp-content/uploads/2021/04/fashiontv_logo_blue_vertical-1white.png" ,Fashion TV
 
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist_b2800000_t64NzIwcA==.m3u8
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7bPZTzk/logog22.jpg" ,QMusic
 
@@ -360,3 +360,7 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/RbF0ynd/83415430-121846739332601-2233759409148788736-n.jpg" ,Vintage Music
 
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WHrWRK3/energeek.png" ,EnerGeek
+
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
