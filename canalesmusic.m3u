@@ -265,9 +265,13 @@ https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
 
 https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2019_04/1.png.0023d21826401e1887f013aedca3274d.png" ,HBO Plus
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GctCWK3/hboplus.png" ,HBO Plus
 
 https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.720733894_HBOPOP(varianteverde).png.a600be0bb04bce797fdb597dbd51d270.png" ,HBO Pop
+
+https://delivery.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q73TJ09/cclogo.png" ,Cinecanal
 
