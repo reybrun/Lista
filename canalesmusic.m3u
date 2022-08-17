@@ -71,7 +71,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6087c6c5db549e0007eead
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece-avc1_5999616=17-mp4a_61000_spa=31.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
 
@@ -107,7 +107,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999
 
 #EXTINF:-1 tvg-logo="https://futbollibre.net/img/logo-canal/ESPN_2.png" ,ESPN 2
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_61000_spa=38.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QDWBZrB/esp3.png" ,ESPN 3
 
@@ -115,7 +115,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_59
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yt3zz8B/4-ESPNPremium.png" ,ESPN Premium
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium-avc1_5999616=9-mp4a_64000_spa=25.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tni-static-assets/tntsports-images/prod/Channel+-TNT+Sports+Arg.png" ,TNT Sports
 
