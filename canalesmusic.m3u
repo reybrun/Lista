@@ -71,7 +71,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6087c6c5db549e0007eead
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_HLS/El_Trece-avc1_5999616=17-mp4a_60000_spa=33.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
 
@@ -79,11 +79,11 @@ https://delivery.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Nueve/SA_HLS/El_Nueve-avc1_5999616=18-mp4a_66000=22.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,América TV
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America-avc1_5999616=6--mp4a_72000_spa=21.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,TyC Sports
 
@@ -103,23 +103,23 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport3_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png" ,ESPN
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN-avc1_5999616=6-mp4a_74000_spa=31.m3u8
 
 #EXTINF:-1 tvg-logo="https://futbollibre.net/img/logo-canal/ESPN_2.png" ,ESPN 2
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2-avc1_5999616=6-mp4a_68000_spa=2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QDWBZrB/esp3.png" ,ESPN 3
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_5999616=12-mp4a_62000_spa=16.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yt3zz8B/4-ESPNPremium.png" ,ESPN Premium
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium-avc1_5999616=9-mp4a_66000_spa=24.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tni-static-assets/tntsports-images/prod/Channel+-TNT+Sports+Arg.png" ,TNT Sports
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports-avc1_5999616=19-mp4a_67000_spa=27.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TUDN_Logo.svg/800px-TUDN_Logo.svg.png" ,TUDN
 
