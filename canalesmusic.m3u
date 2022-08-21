@@ -376,3 +376,7 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDZ1zC0/energeek-lgo.png" ,EnerGeek
 
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDZ1zC0/energeek-lgo.png" ,tnt2
+
+https://edge-live15-sl.cvattv.com.ar/live/c3eds/TNT_Sports_HD/SA_Live_SMPTETT/TNT_Sports_HD.m3u8
