@@ -115,7 +115,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3-avc1_59
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yt3zz8B/4-ESPNPremium.png" ,ESPN Premium
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium-avc1_5999616=9-mp4a_66000_spa=24.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport_Premium/SA_HLS/Fox_Sport_Premium-avc1_5999616=9-mp4a_66000_spa=27.m3u8
 
 #EXTINF:-1 tvg-logo="https://s3-eu-west-1.amazonaws.com/tni-static-assets/tntsports-images/prod/Channel+-TNT+Sports+Arg.png" ,TNT Sports
 
@@ -377,3 +377,6 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/y09dgZd/ae-canal.jpg" ,A&E
+
+https://delivery.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
