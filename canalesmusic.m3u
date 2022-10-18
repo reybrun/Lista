@@ -91,7 +91,7 @@ https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/in
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Fox_Sports_2012.png/revision/latest/scale-to-width-down/640?cb=20200106171029&path-prefix=es" ,Fox Sports
 
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport_hls/playlist.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/fox_sport1_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" ,Fox Sports 2
 
@@ -239,7 +239,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/500px-Telefe_%28nuevo_logo%29.png" ,Telefe
 
-https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/m6cM4rP/starchalogoar.png" ,Star Channel
 
@@ -380,3 +380,7 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/MDZ1zC0/energeek-lgo.png" ,EnerGeek
 
 https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/500px-Telefe_%28nuevo_logo%29.png" ,Telefe (2)
+
+https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
