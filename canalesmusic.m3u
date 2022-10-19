@@ -384,3 +384,7 @@ https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/500px-Telefe_%28nuevo_logo%29.png" ,Telefe (2)
 
 https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/QCgXx6v/energeekr.png" ,EnerGeek Radio
+
+https://streamtest.energeek.cl/hls/0/stream.m3u8
