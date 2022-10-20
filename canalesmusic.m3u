@@ -388,3 +388,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QCgXx6v/energeekr.png" ,EnerGeek Radio
 
 https://streamtest.energeek.cl/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://telefe-static.akamaized.net/media/18236425/casting-gran-hermano-2022.jpg" ,Gran Hermano
+
+https://siloh.pluto.tv/lilo/production/MaradonaSinCortes/LATAM/master.m3u8
