@@ -153,7 +153,7 @@ https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a82
 
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/original/3X/3/e/3e477c08e38a98e78f77a6f08d7611b88b12fb5e.png" ,ABC News Live
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/abc-news-live-light-us.png" ,ABC News Live
 
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 
@@ -165,15 +165,7 @@ https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
 
 https://api.new.livestream.com/accounts/22300508/events/6675945/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/KW0TgS7/bbc1.png" ,BBC Radio 1
-
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_one.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/BBC_Radio_2_2022.svg/800px-BBC_Radio_2_2022.svg.png" ,BBC Radio 2
-
-http://a.files.bbci.co.uk/media/live/manifesto/audio/simulcast/hls/nonuk/sbr_vlow/ak/bbc_radio_two.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.mjh.nz/.images/tv.abctvplus.png" ,ABC TV Plus
+#EXTINF:-1 tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/original/3X/3/e/3e477c08e38a98e78f77a6f08d7611b88b12fb5e.png" ,ABC TV Plus
 
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
 
