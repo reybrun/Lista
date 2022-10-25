@@ -53,7 +53,7 @@ https://afcfc395f1dd41bb8218453983e63b9f.mediatailor.us-east-1.amazonaws.com/v1/
 
 https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u8
 
-#EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/04/Carolina-TV-en-vivo-Online.png" ,Carolina TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/fCshKyd/carotv.png" ,Carolina TV
 
 https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
 
@@ -369,6 +369,6 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 https://streamtest.energeek.cl/hls/0/stream.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FnWzvfH/gh41142.png" ,Gran Hermano
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7X8Z0yp/gh458756.png" ,Gran Hermano
 
 https://siloh.pluto.tv/lilo/production/MaradonaSinCortes/LATAM/master.m3u8
