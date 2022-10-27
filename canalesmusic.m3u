@@ -55,7 +55,7 @@ https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/fCshKyd/carotv.png" ,Carolina TV
 
-https://unlimited1-cl-isp.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+https://jireh-2-hls-video-us-isp.dps.live/hls-video/339f69c6122f6d8f4574732c235f09b7683e31a5/carolinatv/carolinatv.smil/carolinatv/livestream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" ,Canal 26
 
