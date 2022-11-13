@@ -237,7 +237,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 
-#EXTINF:-1 tvg-logo="https://comedycentral.mtvnimages.com/press_images/comedycentral_logos/CC_Logo_LockUp_Horizontal_TM__SummerAle_White__no_bkgrnd-01.png?height=720" ,Comedy Central
+#EXTINF:-1 tvg-logo="https://wwwimage-us.pplusstatic.com/thumbnails/photos/w500-q80/hero/comedy_central_1.png" ,Comedy Central
 
 https://delivery.cdn.rcs.net.ar/mnp/comedy_hls/playlist.m3u8
 
@@ -372,3 +372,7 @@ https://streamtest.energeek.cl/hls/0/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7X8Z0yp/gh458756.png" ,Gran Hermano
 
 https://siloh-latam-aka.plutotv.net/lilo/production/GranHermano/J8473924d9c83s484758d9485603s8/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nb9ztYX/aelog.png" ,A&E
+
+https://delivery.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
