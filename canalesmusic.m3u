@@ -376,3 +376,7 @@ https://siloh-latam-aka.plutotv.net/lilo/production/GranHermano/J8473924d9c83s48
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nb9ztYX/aelog.png" ,A&E
 
 https://delivery.cdn.rcs.net.ar/mnp/ae_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="-" ,7
+
+https://g3.mc-slo.transport.edge-access.net/b16/ngrp:c7_vivo01_dai_source-20001_all/c7_vivo01_dai_source-20001.m3u8
