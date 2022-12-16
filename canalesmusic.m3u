@@ -13,7 +13,7 @@ https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
 
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d3609cd6a6c78d7672f2a81/colorLogoPNG.png" ,MTV Block Party
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DDXNTJJ/mtvbp.png" ,MTV Block Party
 
 https://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 
@@ -297,7 +297,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/His
 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.bellmedia.ca/lede/wp-content/uploads/2014/02/MTV_Logo_Flat_RGB_White.png" ,MTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" ,MTV
 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/MTV/SA_HLS/MTV.m3u8
 
