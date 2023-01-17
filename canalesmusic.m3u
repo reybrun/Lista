@@ -141,7 +141,7 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 
 https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.livenowfox.com/img/LiveNOW_LOGO_HORIZONTAL_2_COLOR_RGB_002.png" ,LiveNOW FOX
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFQ1NC8/unnamed.png" ,LiveNOW FOX
 
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
@@ -189,10 +189,6 @@ https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live.m3u8
 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Uno_logo.svg/1200px-Uno_logo.svg.png" ,Red Uno
-
-http://streannlivereduno.cachefly.net/reduno2/reduno2/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/500px-CGTN.svg.png" ,CGTN
 
 https://livees.cgtn.com/1000e/prog_index.m3u8
@@ -213,7 +209,7 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 
 https://rtvelivestreamv3.akamaized.net/rtvesec/24h_bkp_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://pngimg.com/uploads/south_park/south_park_PNG35.png" ,South Park
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jLKzQWw/splogo555556.png" ,South Park
 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
