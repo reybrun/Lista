@@ -157,6 +157,10 @@ https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
 
 https://live.creacast.com/radio21/smil:radio21.smil/chunklist_w874168447_b2628000.m3u8
 
+#EXTINF:-1 tvg-logo="https://www.rockland.de/fileadmin/_processed_/e/6/csm_Rockland-Radio_TV_Logo_dfaa5c5b6e.png" ,Rockland Radio TV
+
+https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w1411481870_b2628000.m3u8
+
 #EXTINF:-1 tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/original/3X/3/e/3e477c08e38a98e78f77a6f08d7611b88b12fb5e.png" ,ABC TV Plus
 
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
