@@ -388,3 +388,11 @@ https://delivery.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/x2Hzdqf/tv-exitos.png" , TV Exitos
 
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MGh781x/TMHD.png" , Tu Música HD
+
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/vHk5Rc9/Deluxemlogo.png" , Deluxe Music
+
+https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/63eafa622620c_13018905_2302140305_720p.m3u8
