@@ -5,6 +5,10 @@
 
 https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
+#EXTINF:-1 tvg-logo="https://rewindtv.cl/wp-content/uploads/2021/12/ICON-33-1.png" ,Rewind
+
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
+
 #EXTINF:-1 tvg-country="PE" tvg-logo="https://bestcableperu.com.pe/img/logo/logo2.png" ,Best Cable Music
 
 https://tv.inka.net.pe/bestcablemusic/bestcablemusic/index.m3u8
