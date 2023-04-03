@@ -389,3 +389,6 @@ https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
 https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYb6bLD/tvprimem.png" , TV Prime Music
+
+https://tv.clientetvstudio.net:3670/stream/play.m3u8
