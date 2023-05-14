@@ -385,9 +385,9 @@ https://delivery.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MGh781x/TMHD.png" , Tu Música HD
+#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" , Mega Cine TV
 
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
+https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8 
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYb6bLD/tvprimem.png" , TV Prime Music
 
