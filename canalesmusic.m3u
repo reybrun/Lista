@@ -385,9 +385,9 @@ https://delivery.cdn.rcs.net.ar/mnp/tyc_hls/playlist.m3u8
 
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.vivalivetv.com/public/files/shows/0/1/2893-294x165-FFFFFF.jpg" , Mega Cine TV
+#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" , Panc TV HD
 
-https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8 
+https://video.streamtvradio.com:8443/uv096/uv096/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYb6bLD/tvprimem.png" , TV Prime Music
 
@@ -396,3 +396,7 @@ https://tv.clientetvstudio.net:3670/stream/play.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qdvxR8h/flashlogo.png" , Flash HD
 
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/89d69aad-90c2-4f8e-b8cf-966f42d606eb/5.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/C8MDP.png" , Canal 8 Mar del Plata
+
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist.m3u8
