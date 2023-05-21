@@ -392,3 +392,7 @@ https://cloudflare.streamgato.us:3735/live/tumusicahdlive.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYb6bLD/tvprimem.png" , TV Prime Music
 
 https://tv.clientetvstudio.net:3670/stream/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qdvxR8h/flashlogo.png" , Flash HD
+
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/89d69aad-90c2-4f8e-b8cf-966f42d606eb/5.m3u8
