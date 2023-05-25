@@ -396,3 +396,7 @@ https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/89d69aad-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/C8MDP.png" , Canal 8 Mar del Plata
 
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.citymusic.be/images/CityMusiclogo.png" , City Music TV
+
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
