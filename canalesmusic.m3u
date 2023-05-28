@@ -147,7 +147,7 @@ https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WG0pZKL/abcnewslogo.png" ,ABC News Live
 
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radio21.de/fileadmin/_processed_/e/e/csm_RADIO-21_TV_Logo_b476b636b9.png" ,Radio 21 TV
 
@@ -229,7 +229,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX.m3u8
 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tnt.png" ,TNT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FnhmbPq/tntlogo45554.png" ,TNT
 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 
@@ -389,10 +389,6 @@ https://video.streamtvradio.com:8443/uv096/uv096/chunks.m3u8
 
 https://tv.clientetvstudio.net:3670/stream/play.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/qdvxR8h/flashlogo.png" , Flash HD
-
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01024-olympusat-flash-ono/89d69aad-90c2-4f8e-b8cf-966f42d606eb/5.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/C8MDP.png" , Canal 8 Mar del Plata
 
 https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist.m3u8
@@ -400,3 +396,31 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://www.citymusic.be/images/CityMusiclogo.png" , City Music TV
 
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/500px-Las_Estrellas.svg.png" , Las Estrellas
+
+https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/500px-Logo_tvmax.png" , TVMax
+
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VxhfZbm/cctv-13-logo.png" , CCTV-13
+
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/NNN_logo.svg/440px-NNN_logo.svg.png" , Nippon News Network
+
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/500px-Logo_Univision_2019.svg.png" , Univision LATAM
+
+https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/500px-Telemundo_logo_2018.svg.png" , Telemundo
+
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+
+
+
