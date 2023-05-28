@@ -229,7 +229,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX.m3u8
 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FnhmbPq/tntlogo45554.png" ,TNT
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LQXwk0K/tntlogo22348615.png" ,TNT
 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 
@@ -405,7 +405,7 @@ https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/VxhfZbm/cctv-13-logo.png" , CCTV-13
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5R9hJB2/cctv13logo.png" , CCTV-13
 
 https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
@@ -413,7 +413,7 @@ https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
 
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/500px-Logo_Univision_2019.svg.png" , Univision LATAM
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/500px-Logo_Univision_2019.svg.png" , Univision
 
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
