@@ -401,7 +401,7 @@ https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 
 https://linear-416.frequency.stream/416/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Logo_tvmax.png/500px-Logo_tvmax.png" , TVMax
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zSZZDQp/tvmaxlogo.png" , TVMax
 
 https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
 
@@ -417,10 +417,17 @@ https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 
 https://linear-424.frequency.stream/dist/vix/424/hls/master/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/500px-Telemundo_logo_2018.svg.png" , Telemundo
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/500px-Telemundo_logo_2018.svg.png" , Telemundo Noticias [California]
 
 https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/500px-Telemundo_logo_2018.svg.png" , Telemundo [PR]
+
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b2/TVN_Panam%C3%A1_%282017%29.png" , TVN
+
+https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
 
 
 
