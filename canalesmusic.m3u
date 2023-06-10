@@ -89,15 +89,15 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/America/SA_HLS/America.m3u
 
 https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/2f/Fox_Sports_2012.png/revision/latest/scale-to-width-down/640?cb=20200106171029&path-prefix=es" ,Fox Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/640px-Fox_Sports_Argentina_2023.svg.png" ,Fox Sports
 
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/F/fox-sports-2-logo-876FE0A3C1-seeklogo.com.png" ,Fox Sports 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/500px-Fox_Sports_2_Argentina_2023.svg.png" ,Fox Sports 2
 
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zrLmzBK/fs3logo.png" ,Fox Sports 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/500px-Fox_Sports_3_Argentina_2023.svg.png" ,Fox Sports 3
 
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
@@ -429,5 +429,15 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/3f9CtcX/large-gallery-11278-7-112139-png-a994eb9847a67d8c0a8385ec97840ca4.png" , TBS
 
+https://delivery.cdn.rcs.net.ar/mnp/tbs/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/500px-I.Sat_logo.svg.png" , I.Sat
+
+https://delivery.cdn.rcs.net.ar/mnp/isat/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KxcDy3K/deportvlogo.png" , DeporTV
+
+https://delivery.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 
