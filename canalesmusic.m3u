@@ -401,9 +401,9 @@ https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist.m3u8
 
 https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Las_Estrellas.svg/500px-Las_Estrellas.svg.png" , Las Estrellas
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/500px-Canal_2_%28Las_Estrellas_2017%29.svg.png" , Las Estrellas
 
-https://linear-416.frequency.stream/dist/vix/416/hls/master/playlist.m3u8
+https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/bmNMqS6/tvmax46582225533333333.png" , TVMax
 
