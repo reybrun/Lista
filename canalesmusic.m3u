@@ -151,11 +151,7 @@ https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.radio21.de/fileadmin/_processed_/e/e/csm_RADIO-21_TV_Logo_b476b636b9.png" ,Radio 21 TV
 
-https://live.creacast.com/radio21/smil:radio21.smil/chunklist_w874168447_b2628000.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rockland.de/fileadmin/_processed_/e/6/csm_Rockland-Radio_TV_Logo_dfaa5c5b6e.png" ,Rockland Radio TV
-
-https://live.creacast.com/rockland-radio/smil:rockland-radio.smil/chunklist_w1411481870_b2628000.m3u8
+https://live.creacast.com/radio21/smil:radio21.smil/chunklist_w150358763_b1128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/original/3X/3/e/3e477c08e38a98e78f77a6f08d7611b88b12fb5e.png" ,ABC TV Plus
 
@@ -244,22 +240,6 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" ,Comedy Central
 
 https://delivery.cdn.rcs.net.ar/mnp/comedy/output.mpd
-
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/HBO_blanco.png/revision/latest?cb=20220106150908&path-prefix=es" ,HBO
-
-https://delivery.cdn.rcs.net.ar/mnp/hbo_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/FUhZyPSXoAAisK1.png" ,HBO 2
-
-https://delivery.cdn.rcs.net.ar/mnp/hbo2_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GctCWK3/hboplus.png" ,HBO Plus
-
-https://delivery.cdn.rcs.net.ar/mnp/hboplus_hls/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.foromedios.com/uploads/monthly_2020_02/small.720733894_HBOPOP(varianteverde).png.a600be0bb04bce797fdb597dbd51d270.png" ,HBO Pop
-
-https://delivery.cdn.rcs.net.ar/mnp/hbopop_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q73TJ09/cclogo.png" ,Cinecanal
 
