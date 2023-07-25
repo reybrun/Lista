@@ -123,15 +123,15 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Spor
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/zfF24F3/theboxlogo1.png" ,The Box
 
-https://csm-e-ces1uswxaws204j8-hsx86muxhxc.tls1.yospace.com/csm/live/131232815/3.m3u8;jsessionid=86D67B072B8DE691B159FD54E024183E.csm-e-ces1uswxaws204j8-hsx86muxhxc.tls1.yospace.com?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/&externalId=thebox-alldev
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/400px-4Music_logo_2018.svg.png" ,4Music
 
-https://csm-e-ces1uswxaws204j8-6b6mluowv9a3.tls1.yospace.com/csm/live/131232624/4.m3u8;jsessionid=4AE04EF89EAE227B836C93B3E83C580E.csm-e-ces1uswxaws204j8-6b6mluowv9a3.tls1.yospace.com?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/&externalId=boxhits-alldev
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEdDEJwGLS7zMWhaCzYeVmJAtwvho7Da6UdTuytzRTSBh7f6oBYAhZRu44d6u1gehWA&usqp=CAU" ,Kerrang TV
 
-https://csm-e-ces1uswxaws204j8-hsx86muxhxc.tls1.yospace.com/csm/live/131232714/4.m3u8;jsessionid=01E6A503CCF8DEA3B759D381B196CB11.csm-e-ces1uswxaws204j8-hsx86muxhxc.tls1.yospace.com?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/&externalId=kerrang-alldev
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 
 #EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5ace85bdb27e39ff54b7b2b2/1614982784839-3W02F0E9T1ZGR0HWF0OF/Cnn_logo_PNG5.png" ,CNN
 
