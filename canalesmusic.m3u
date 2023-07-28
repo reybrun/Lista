@@ -285,10 +285,6 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery
 
 https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" ,Rock TV
-
-https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist.m3u8
-
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQya4OH0eWEfVHRQw42EOQRrls61lsldyeppo9G=s900" ,Best Cable TV
 
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
@@ -329,9 +325,9 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/RDVDgwy/rcktvlogo.png" ,RCKTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sQxgLFm/eternal4566156.jpg" ,Eternal Metal
 
-https://mediacpstreamchile.com:1936/ricardoaravena/ricardoaravena/playlist.m3u8
+https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/tZQ3f0H/vclassic.png" ,VclassicTV
 
