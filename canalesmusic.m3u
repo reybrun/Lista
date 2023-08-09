@@ -439,4 +439,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/647f7f8d8e3c0a0008
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxcDy3K/deportvlogo.png" , DeporTV2
 
-https://lastcall.bar/dtvpl2.html?id=1109
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ab020a1710d630168de21698375a439c:235898cdb10b0cdba35ea2ce94fbb1fb 
+https://1063-vos.dtvott.com/DASH/manifest.mpd
