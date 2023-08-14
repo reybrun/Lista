@@ -361,10 +361,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf00071
 
 https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
 
-#EXTINF:-1 tvg-logo="https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png" , Panc TV HD
-
-https://video.streamtvradio.com:8443/uv096/uv096/chunks.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/qYb6bLD/tvprimem.png" , TV Prime Music
 
 https://tv.clientetvstudio.net:3670/stream/play.m3u8
@@ -421,7 +417,7 @@ http://195.24.89.82/VH1_SD/index.m3u8
 
 http://195.24.89.82/MTV_SD/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/M2xjRQm/tbs5462456.png" , TBS
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQcVYCV/TNT-Novelas-logo-2023.png" , TNT Novelas
 
 https://delivery.cdn.rcs.net.ar/mnp/tbs/output.mpd
 
