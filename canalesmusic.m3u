@@ -283,7 +283,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" ,MTV
 
-https://edge-vod03-hr.cvattv.com.ar/live/c6eds/MTV_Hits/SA_Live_dash_enc/MTV_Hits.mpd
+https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://yt3.ggpht.com/ytc/AKedOLQya4OH0eWEfVHRQw42EOQRrls61lsldyeppo9G=s900" ,Best Cable TV
 
