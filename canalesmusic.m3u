@@ -436,3 +436,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/647f7f8d8e3c0a0008
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c6/SYFY_Logo_2020.png" , SYFY
 
 https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nfWz5Hh/rbtvlogo.png" , RedBull TV
+
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
