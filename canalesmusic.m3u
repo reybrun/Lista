@@ -17,7 +17,7 @@ https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DDXNTJJ/mtvbp.png" ,MTV Block Party
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJT32YN/mtvfl.png" ,MTV Flow Latino
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
 
@@ -440,3 +440,7 @@ https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wML8p0f/rbtv-logo.png" , RedBull TV
 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/07/Logo-Varo-Version.png" , Voice Over Radio TV
+
+https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
