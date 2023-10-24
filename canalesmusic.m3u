@@ -413,9 +413,9 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
 https://tvup-live.secure2.footprint.net/mtv00s/mtv00s.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x6Mzv52/MTV-Global.png" , MTV Global
+#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/coto-brus-tv.jpg" , Coto Brus TV
 
-http://195.24.89.82/MTV_SD/index.m3u8
+https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQcVYCV/TNT-Novelas-logo-2023.png" , TNT Novelas
 
@@ -444,8 +444,3 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/07/Logo-Varo-Version.png" , Voice Over Radio TV
 
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
-
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/coto-brus-tv.jpg" , Coto Brus TV
-
-https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
-
