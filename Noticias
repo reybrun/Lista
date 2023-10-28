@@ -1,0 +1,66 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W6QsSQV/cronicalogo.png" ,Crónica
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cronica/SA_HLS/Cronica.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN
+
+https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/C0RPPp6/a24logoar2.png" ,A24
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/A24/SA_HLS/A24.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,La Nación +
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0qyNR8M/c5log.jpg" ,C5N
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/C5N/SA_HLS/C5N.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/9TbtvnD/Dwlogo.png" ,DW
+
+https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Logo_TVE-24h.svg/500px-Logo_TVE-24h.svg.png" ,24 Horas
+
+https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Foro_TV_%28Canal_4_MX_2022%29.svg/520px-Foro_TV_%28Canal_4_MX_2022%29.svg.png" ,Foro TV
+
+https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/500px-CGTN.svg.png" ,CGTN
+
+https://livees.cgtn.com/1000e/prog_index.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5ace85bdb27e39ff54b7b2b2/1614982784839-3W02F0E9T1ZGR0HWF0OF/Cnn_logo_PNG5.png" ,CNN
+
+https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/9/14/NBCNewsNow-Logo-White-344x300.png" ,NBC News NOW
+
+https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hFQ1NC8/unnamed.png" ,LiveNOW FOX
+
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WG0pZKL/abcnewslogo.png" ,ABC News Live
+
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/original/3X/3/e/3e477c08e38a98e78f77a6f08d7611b88b12fb5e.png" ,ABC TV Plus
+
+https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5R9hJB2/cctv13logo.png" , CCTV-13
+
+https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/NNN_logo.svg/440px-NNN_logo.svg.png" , Nippon News Network
+
+https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
