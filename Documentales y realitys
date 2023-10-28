@@ -1,0 +1,42 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WyMHJQ8/idlogo2.png" ,ID
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_m.png" ,HGTV
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/471?cb=20211213232008&path-prefix=es" ,History Channel
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/History_Channel/SA_HLS/History_Channel.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/nb9ztYX/aelog.png" ,A&E
+
+https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SP8t7JX/dcha.png" ,Discovery Channel
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery/SA_HLS/Discovery.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" ,MTV
+
+https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7X8Z0yp/gh458756.png" ,Gran Hermano
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6320ddef274b1b0007b2ee88/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7X8Z0yp/gh458756.png" ,Gran Hermano Chile
+
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/647f7f8d8e3c0a0008d552cb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0041/9194/4817/t/15/assets/logo-image-file.png" ,FailArmy
+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wML8p0f/rbtv-logo.png" , RedBull TV
+
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
