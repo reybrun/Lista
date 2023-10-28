@@ -1,0 +1,92 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" ,Space
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/500px-I.Sat_logo.svg.png" , I.Sat
+
+https://delivery.cdn.rcs.net.ar/mnp/isat/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FDDC8g4/tntlog23.png" ,TNT
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/q73TJ09/cclogo.png" ,Cinecanal
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/LRTV88f/fxlogoar.png" ,FX
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/FX/SA_HLS/FX.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/87GPDSC/parnetlogo.png" ,Paramount Network
+
+https://delivery.cdn.rcs.net.ar/mnp/paramount/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DLwk8dt/wchtv.png" ,Warner Channel
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" ,Comedy Central
+
+https://delivery.cdn.rcs.net.ar/mnp/comedy/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/800px-TCM_Latam_logo.svg.png" ,TCM
+
+https://delivery.cdn.rcs.net.ar/mnp/tcm_hls/playlist.m3u8
+
+https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" ,Studio Universal
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/500px-USA_Network_logo_%282016%29.svg.png" , USA
+
+https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/HBO_blanco.png/revision/latest?cb=20220106150908&path-prefix=es" ,HBO
+
+https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5LwqMcw/hb2lo.png" ,HBO 2
+
+https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GctCWK3/hboplus.png" ,HBO Plus
+
+https://delivery.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DWJxrjg/hbopop.png" ,HBO Pop
+
+https://delivery.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GQcVYCV/TNT-Novelas-logo-2023.png" , TNT Novelas
+
+https://delivery.cdn.rcs.net.ar/mnp/tbs/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bmNMqS6/tvmax46582225533333333.png" , TVMax
+
+https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jLKzQWw/splogo555556.png" ,South Park
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mtv-logo-B88195D873-seeklogo.com.png" ,MTV Classic
+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae22-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=660d0b2a-7fb6-45ce-9752-4b5be4f0e398&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/MDZ1zC0/energeek-lgo.png" ,EnerGeek Retro
+
+https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
