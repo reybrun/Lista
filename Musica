@@ -1,0 +1,134 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/bXg3hym/rewindcubo.png" ,Rewind
+
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/800px-VH1_2020.svg.png" ,VH1 Italia
+
+https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" ,MTV YO!
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/jJT32YN/mtvfl.png" ,MTV Flow Latino
+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" ,MTV Biggest Pop
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" ,MTV Spankin' New
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/M/mtv-logo-B88195D873-seeklogo.com.png" ,MTV Classic
+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae22-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=660d0b2a-7fb6-45ce-9752-4b5be4f0e398&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO 90s
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO 2K
+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO Pop
+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO R&B
+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
+
+#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO Hip-Hop
+
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
+
+#EXTINF:-1 tvg-logo="https://assets.podomatic.net/ts/b1/7b/87/podcast34487/1000x1000_3685972.jpg" ,Radio Javan TV
+
+https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/zfF24F3/theboxlogo1.png" ,The Box
+
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/400px-4Music_logo_2018.svg.png" ,4Music
+
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEdDEJwGLS7zMWhaCzYeVmJAtwvho7Da6UdTuytzRTSBh7f6oBYAhZRu44d6u1gehWA&usqp=CAU" ,Kerrang TV
+
+https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
+
+#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" ,VH1 Classic
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://freebeacon.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-14-at-4.21.17-PM.png" ,MTV Good Vibes
+
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-1 tvg-logo="https://www.radio21.de/fileadmin/_processed_/e/e/csm_RADIO-21_TV_Logo_b476b636b9.png" ,Radio 21 TV
+
+https://live.creacast.com/radio21/smil:radio21.smil/chunklist_w150358763_b1128000.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FB1pQWL/muzziklogo74561523.png" ,Muzzik
+
+https://muzzik-live.morescreens.com/mts-6/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FB1pQWL/muzziklogo74561523.png" ,Muzzik Rock&Roll
+
+https://muzzik-live.morescreens.com/mts-1/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FB1pQWL/muzziklogo74561523.png" ,Muzzik Popstar
+
+https://muzzik-live.morescreens.com/mts-3/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/FB1pQWL/muzziklogo74561523.png" ,Muzzik Flashback
+
+https://muzzik-live.morescreens.com/mts-8/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/02PhqJJ/mtslogo8745612.jpg" ,MTS
+
+https://muzzik-live.morescreens.com/mts-a7/576p/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7bPZTzk/logog22.jpg" ,QMusic
+
+https://dpp-qmusicnl-live.akamaized.net/streamx/QmusicNL.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/California_Music_Channel_Logo.png" ,California Music Channel
+
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1326613295772692480/idsLk-SY_400x400.png" ,V2Beat TV
+
+https://abr.de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/sQxgLFm/eternal4566156.jpg" ,Eternal Metal
+
+https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/tZQ3f0H/vclassic.png" ,VclassicTV
+
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/CK0ff2p/vintage266.png" ,Vintage Music
+
+https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x2Hzdqf/tv-exitos.png" , TV Exitos
+
+https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.citymusic.be/images/CityMusiclogo.png" , City Music TV
+
+https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/07/Logo-Varo-Version.png" , Voice Over Radio TV
+
+https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
