@@ -9,9 +9,9 @@ https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
 
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
 
-#EXTINF:-1 tvg-country="PE" tvg-logo="https://bestcableperu.com.pe/img/logo/logo2.png" ,Best Cable Music
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GMJ2xB3/bcmlogo.png" ,Best Cable Music
 
-https://ca2.inka.net.pe/best-Music-0011200000/index.m3u8
+https://tv.godo.net.pe/bestcablemusic/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" ,MTV YO!
 
@@ -425,10 +425,6 @@ https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/60580
 
 https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f8/MTV_00s_remaster.png" , MTV 00s
-
-https://tvup-live.secure2.footprint.net/mtv00s/mtv00s.mpd
-
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/coto-brus-tv.jpg" , Coto Brus TV
 
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
@@ -457,6 +453,27 @@ https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x6Mzv52/MTV-Global.png" , MTV Global
+
+http://37.18.239.36:8888/MTV_Adria/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/07/Logo-Varo-Version.png" , Voice Over Radio TV
 
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" , Rock TV
+
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/500px-NOW_Rock_logo.png" , Now Rock
+
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" , Now 80s
+
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" , MTV Japón
+
+http://jp.vthanhnetwork.com/MTV/index.m3u8
+
