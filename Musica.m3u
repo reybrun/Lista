@@ -132,3 +132,27 @@ https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/07/Logo-Varo-Version.png" , Voice Over Radio TV
 
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/GMJ2xB3/bcmlogo.png" ,Best Cable Music
+
+https://tv.godo.net.pe/bestcablemusic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" , Rock TV
+
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/500px-NOW_Rock_logo.png" , Now Rock
+
+https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" , Now 80s
+
+https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" , MTV Japón
+
+http://jp.vthanhnetwork.com/MTV/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/x6Mzv52/MTV-Global.png" , MTV Global
+
+http://37.18.239.36:8888/MTV_Adria/index.m3u8
