@@ -133,14 +133,6 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8
 
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
 
-#EXTINF:-1 tvg-logo="https://images.squarespace-cdn.com/content/v1/5ace85bdb27e39ff54b7b2b2/1614982784839-3W02F0E9T1ZGR0HWF0OF/Cnn_logo_PNG5.png" ,CNN
-
-https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.nbc.com/sites/nbcunbc/files/images/2020/9/14/NBCNewsNow-Logo-White-344x300.png" ,NBC News NOW
-
-https://nbcnews2.akamaized.net/hls/live/723426/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFQ1NC8/unnamed.png" ,LiveNOW FOX
 
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -309,10 +301,6 @@ https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
 
 https://tv.inka.net.pe/bestcable/bestcable/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bF8WN0v/axstvnowlogo.jpg" ,AXS TV Now
-
-https://dikcfc9915kp8.cloudfront.net/hls/main.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DRyCHFK/zaplo.png" ,Zapping Music
 
 https://zmlive.zappingtv.com/zm-free/zm.smil/playlist.m3u8
@@ -397,14 +385,6 @@ https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
 
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bmNMqS6/tvmax46582225533333333.png" , TVMax
-
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5R9hJB2/cctv13logo.png" , CCTV-13
-
-https://live-play.cctvnews.cctv.com/cctv/merge_cctv13_mud.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/NNN_logo.svg/440px-NNN_logo.svg.png" , Nippon News Network
 
 https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -445,9 +425,9 @@ https://delivery.cdn.rcs.net.ar/mnp/isat/output.mpd
 
 https://delivery.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/7X8Z0yp/gh458756.png" ,Gran Hermano Chile
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/500px-Logotipo_de_Mega_%282020-%29.svg.png" , Mega (Chile)
 
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/647f7f8d8e3c0a0008d552cb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=true
+https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/500px-USA_Network_logo_%282016%29.svg.png" , USA
 
