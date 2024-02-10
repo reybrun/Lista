@@ -51,6 +51,10 @@ https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/700px-Universal_TV_logo.svg.png" ,Universal TV
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/500px-USA_Network_logo_%282016%29.svg.png" , USA
 
 https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
