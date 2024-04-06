@@ -375,7 +375,7 @@ https://tv.clientetvstudio.net:3670/stream/play.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/C8MDP.png" , Canal 8 Mar del Plata
 
-https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist.m3u8
+https://stream.arcast.live/c8mdp/ngrp:c8mdp_all/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.citymusic.be/images/CityMusiclogo.png" , City Music TV
 
@@ -420,10 +420,6 @@ https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQcVYCV/TNT-Novelas-logo-2023.png" , TNT Novelas
 
 https://delivery.cdn.rcs.net.ar/mnp/tbs/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/500px-I.Sat_logo.svg.png" , I.Sat
-
-https://delivery.cdn.rcs.net.ar/mnp/isat/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxcDy3K/deportvlogo.png" , DeporTV
 
