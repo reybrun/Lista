@@ -36,3 +36,23 @@ https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/coto-brus-tv.jpg" , Coto Brus TV
 
 https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2022/06/power-max-logo-2022.png" ,Power Max
+
+https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png" ,BBC News (North America)
+
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Bzd8M6q/canal5log.png" ,Canal 5
+
+https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BET-2021Logo.svg/500px-BET-2021Logo.svg.png" ,BET
+
+http://170.254.18.106/BET/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/E%21_Logo.svg/185px-E%21_Logo.svg.png" ,E!
+
+http://stream.flynetwifi.com:1935/live/mobile-156/playlist.m3u8
