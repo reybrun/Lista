@@ -121,18 +121,6 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_P
 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/zfF24F3/theboxlogo1.png" ,The Box
-
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,thebox-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/thebox/
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/4Music_logo_2018.svg/400px-4Music_logo_2018.svg.png" ,4Music
-
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
-
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMEdDEJwGLS7zMWhaCzYeVmJAtwvho7Da6UdTuytzRTSBh7f6oBYAhZRu44d6u1gehWA&usqp=CAU" ,Kerrang TV
-
-https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/kerrang/
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFQ1NC8/unnamed.png" ,LiveNOW FOX
 
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
