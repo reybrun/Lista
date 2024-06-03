@@ -15,3 +15,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TN/SA_HLS/TN.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/640px-Fox_Sports_Argentina_2023.svg.png" ,Fox Sports
 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport/SA_HLS/Fox_Sport.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,América TV
+
+https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
