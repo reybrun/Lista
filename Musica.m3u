@@ -1,14 +1,6 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bXg3hym/rewindcubo.png" ,Rewind
-
-https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
-
-#EXTINF:-1 tvg-country="IT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VH1_2020.svg/800px-VH1_2020.svg.png" ,VH1 Italia
-
-https://content.uplynk.com/channel/36953f5b6546464590d2fcd954bc89cf.m3u8
-
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" ,MTV YO!
 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
@@ -47,7 +39,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b
 
 #EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO Hip-Hop
 
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=true
 
 #EXTINF:-1 tvg-logo="https://assets.podomatic.net/ts/b1/7b/87/podcast34487/1000x1000_3685972.jpg" ,Radio Javan TV
 
