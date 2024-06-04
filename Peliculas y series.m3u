@@ -5,10 +5,6 @@
 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/I.Sat_logo.svg/500px-I.Sat_logo.svg.png" , I.Sat
-
-https://delivery.cdn.rcs.net.ar/mnp/isat/output.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FDDC8g4/tntlog23.png" ,TNT
 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
@@ -31,11 +27,11 @@ https://delivery.cdn.rcs.net.ar/mnp/paramount/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Sony/SA_HLS/Sony.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLwk8dt/wchtv.png" ,Warner Channel
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Warner/SA_HLS/Warner.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" ,Comedy Central
 
@@ -77,10 +73,6 @@ https://delivery.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 
 https://delivery.cdn.rcs.net.ar/mnp/tbs/output.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bmNMqS6/tvmax46582225533333333.png" , TVMax
-
-https://bcovlive-a.akamaihd.net/474b6caf58f8407fb1d1cc1ef64f50ff/us-west-2/6058004209001/playlist_dvr.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jLKzQWw/splogo555556.png" ,South Park
 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
@@ -89,6 +81,3 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a9
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae22-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=660d0b2a-7fb6-45ce-9752-4b5be4f0e398&userId=&serverSideAds=true
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/MDZ1zC0/energeek-lgo.png" ,EnerGeek Retro
-
-https://wifispeed.trapemn.tv:1936/infantil/energeek-1/playlist.m3u8
