@@ -19,3 +19,31 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport/SA_HLS/Fox_Sport
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,América TV
 
 https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DLwk8dt/wchtv.png" ,Warner Channel
+
+https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/SP8t7JX/dcha.png" ,Discovery Channel
+
+https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/WyMHJQ8/idlogo2.png" ,ID
+
+https://delivery.cdn.rcs.net.ar/mnp/id/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony
+
+https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
+
+https://delivery.cdn.rcs.net.ar/mnp/star/output.mpd
+
+#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_m.png" ,HGTV
+
+https://delivery.cdn.rcs.net.ar/mnp/hgtv/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,La Nación +
+
+https://delivery.cdn.rcs.net.ar/mnp/lanacion/output.mpd
