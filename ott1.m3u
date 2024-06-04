@@ -30,7 +30,7 @@ https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WyMHJQ8/idlogo2.png" ,ID
 
-https://delivery.cdn.rcs.net.ar/mnp/id/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/investigation/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony
 
@@ -38,12 +38,12 @@ https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
 
-https://delivery.cdn.rcs.net.ar/mnp/star/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/starchannel/output.mpd
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_m.png" ,HGTV
 
-https://delivery.cdn.rcs.net.ar/mnp/hgtv/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/home/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,La Nación +
 
-https://delivery.cdn.rcs.net.ar/mnp/lanacion/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/ln/output.mpd
