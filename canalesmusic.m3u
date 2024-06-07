@@ -395,7 +395,7 @@ https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQcVYCV/TNT-Novelas-logo-2023.png" , TNT Novelas
 
-https://delivery.cdn.rcs.net.ar/mnp/tbs/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/tntnovelas/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxcDy3K/deportvlogo.png" , DeporTV
 
