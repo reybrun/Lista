@@ -47,3 +47,25 @@ https://delivery.cdn.rcs.net.ar/mnp/home/output.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,La Nación +
 
 https://delivery.cdn.rcs.net.ar/mnp/ln/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,tnt nov1
+
+https://delivery.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,tnt nov2
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TBS/SA_HLS/TBS.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,tnt nov3
+
+https://delivery.cdn.rcs.net.ar/mnp/tntnovelas/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,tnt nov4
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Novelas/SA_HLS/TNT_Novelas.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,tnt nov5
+
+https://delivery.cdn.rcs.net.ar/mnp/novelas/output.mpd
+
+
