@@ -10,7 +10,7 @@ https://delivery.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TN/SA_HLS/TN.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/640px-Fox_Sports_Argentina_2023.svg.png" ,Fox Sports
 
@@ -48,24 +48,14 @@ https://delivery.cdn.rcs.net.ar/mnp/home/output.mpd
 
 https://delivery.cdn.rcs.net.ar/mnp/ln/output.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,tnt nov1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
 
-https://delivery.cdn.rcs.net.ar/mnp/tbs_hls/playlist.m3u8
+https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,tnt nov2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN 2
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TBS/SA_HLS/TBS.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,tnt nov3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN 3
 
-https://delivery.cdn.rcs.net.ar/mnp/tntnovelas/output.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,tnt nov4
-
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Novelas/SA_HLS/TNT_Novelas.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,tnt nov5
-
-https://delivery.cdn.rcs.net.ar/mnp/novelas/output.mpd
-
-
+https://delivery.cdn.rcs.net.ar/mnp/todonoticias/output.mpd
