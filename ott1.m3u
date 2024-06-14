@@ -52,13 +52,13 @@ https://delivery.cdn.rcs.net.ar/mnp/ln/output.mpd
 
 https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,id
 
-https://delivery.cdn.rcs.net.ar/mnp/televisionpublica/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/investigacion/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública 3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,id2
 
-https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/investigaciondiscovery/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN 2
 
