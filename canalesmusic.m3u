@@ -207,7 +207,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FDDC8g4/tntlog23.png" ,TNT
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" ,Comedy Central
 
