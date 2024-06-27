@@ -1,69 +1,50 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Yt3zz8B/4-ESPNPremium.png" ,ESPN Premium
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/500px-Telefe_%28nuevo_logo%29.png" ,Telefe
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
+https://delivery.cdn.rcs.net.ar/mnp/telefe/output.mpd
 
-https://delivery.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN
+https://delivery.cdn.rcs.net.ar/mnp/canal9/output.mpd
 
-https://delivery.cdn.rcs.net.ar/mnp/tn_hls/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9 2
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/640px-Fox_Sports_Argentina_2023.svg.png" ,Fox Sports
+https://delivery.cdn.rcs.net.ar/mnp/nueve/output.mpd
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Fox_Sport/SA_HLS/Fox_Sport.m3u8
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9 3
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,América TV
+https://delivery.cdn.rcs.net.ar/mnp/canal_nueve/output.mpd
 
-https://delivery.cdn.rcs.net.ar/mnp/america/output.mpd
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9 4
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/DLwk8dt/wchtv.png" ,Warner Channel
+https://delivery.cdn.rcs.net.ar/mnp/el_nueve/output.mpd
 
-https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
+#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9 5
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/SP8t7JX/dcha.png" ,Discovery Channel
+https://delivery.cdn.rcs.net.ar/mnp/canal_9/output.mpd
 
-https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/WyMHJQ8/idlogo2.png" ,ID
+https://delivery.cdn.rcs.net.ar/mnp/el_trece/output.mpd
 
-https://delivery.cdn.rcs.net.ar/mnp/discoveryid/output.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece 2
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony
+https://delivery.cdn.rcs.net.ar/mnp/trece/output.mpd
 
-https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece 3
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
+https://delivery.cdn.rcs.net.ar/mnp/canal_trece/output.mpd
 
-https://delivery.cdn.rcs.net.ar/mnp/starchannel/output.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece 4
 
-#EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_m.png" ,HGTV
+https://delivery.cdn.rcs.net.ar/mnp/canal_13/output.mpd
 
-https://delivery.cdn.rcs.net.ar/mnp/home/output.mpd
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece 5
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,La Nación +
-
-https://delivery.cdn.rcs.net.ar/mnp/ln/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/eltrece/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
 
-https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,id
-
-https://delivery.cdn.rcs.net.ar/mnp/investigacion/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,id2
-
-https://delivery.cdn.rcs.net.ar/mnp/investigaciondiscovery/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN 2
-
-https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN 3
-
-https://delivery.cdn.rcs.net.ar/mnp/todonoticias/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
