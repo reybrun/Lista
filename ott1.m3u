@@ -1,50 +1,14 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/500px-Telefe_%28nuevo_logo%29.png" ,Telefe
-
-https://delivery.cdn.rcs.net.ar/mnp/telefe/output.mpd
-
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
 
-https://delivery.cdn.rcs.net.ar/mnp/canal9/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9 2
 
-https://delivery.cdn.rcs.net.ar/mnp/nueve/output.mpd
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9 3
-
-https://delivery.cdn.rcs.net.ar/mnp/canal_nueve/output.mpd
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9 4
-
-https://delivery.cdn.rcs.net.ar/mnp/el_nueve/output.mpd
-
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9 5
-
-https://delivery.cdn.rcs.net.ar/mnp/canal_9/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece
-
-https://delivery.cdn.rcs.net.ar/mnp/el_trece/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece 2
-
-https://delivery.cdn.rcs.net.ar/mnp/trece/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece 3
-
-https://delivery.cdn.rcs.net.ar/mnp/canal_trece/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece 4
-
-https://delivery.cdn.rcs.net.ar/mnp/canal_13/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece 5
-
-https://delivery.cdn.rcs.net.ar/mnp/eltrece/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/canal9_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
 
-https://delivery.cdn.rcs.net.ar/mnp/tvp/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
