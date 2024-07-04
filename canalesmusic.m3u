@@ -421,13 +421,17 @@ https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" , MTV Japón
-
-http://jp.vthanhnetwork.com/MTV/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2022/06/power-max-logo-2022.png" ,Power Max
 
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Vtr6k3Q/elglpnlogo785.png" ,El Galpon 80
+
+https://streamlov.alsolnet.com/amplificacion/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://musicworldradio.cl/images/logo.png" ,Musicworld Radio TV
+
+https://cdn.mycloudstream.io/hls/live/broadcast/9b3ke4sb/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png" ,BBC News (North America)
 
