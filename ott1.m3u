@@ -12,3 +12,23 @@ https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
 
 https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,TyC Sports
+
+https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,TyC Sports 2
+
+https://delivery.cdn.rcs.net.ar/mnp/tyc_sports/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,TyC Sports 3
+
+https://delivery.cdn.rcs.net.ar/mnp/tyc_sport/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,TyC Sports 4
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC_Sport/SA_HLS/TyC_Sport.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,TyC Sports 5
+
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TyC_Sports/SA_HLS/TyC_Sports.m3u8
