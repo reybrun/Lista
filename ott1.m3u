@@ -15,8 +15,16 @@ https://delivery.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,TyC Sports
 
-https://delivery.cdn.rcs.net.ar/mnp/tycsport/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/tyc_sports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,TyC Sports 2
 
-https://delivery.cdn.rcs.net.ar/mnp/tycsports/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/tyc_sport/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,Tlf
+
+https://tvfuego.cdn.rcs.net.ar/mnp/telefe/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,nacion
+
+https://delivery.cdn.rcs.net.ar/mnp/NACION/output.mpd
