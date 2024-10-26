@@ -425,6 +425,10 @@ https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 https://lightning-now90s-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/NOW_70s.png/459px-NOW_70s.png" , Now 70s
+
+https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/NOW_80s_logo.png" , Now 80s
 
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
@@ -445,9 +449,7 @@ https://cdn.mycloudstream.io/hls/live/broadcast/9b3ke4sb/mono.m3u8
 
 https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.info/i/lf/300/1672284163/1191.png" , Now 70s
 
-https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 
 
