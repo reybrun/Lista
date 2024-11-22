@@ -1,25 +1,9 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Canal_2_%28Las_Estrellas_2017%29.svg/500px-Canal_2_%28Las_Estrellas_2017%29.svg.png" , Las Estrellas
-
-https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/500px-Telemundo_logo_2018.svg.png" , Telemundo Noticias [California]
-
-https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/500px-Telemundo_logo_2018.svg.png" , Telemundo [PR]
 
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/j3HF1Wm/tvnlogo23.png" , TVN
-
-https://bcovlive-a.akamaihd.net/628aecb4fccb4c52b4f9c8d5cc57fb73/us-west-2/6058004209001/profile_0/chunklist_dvr.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/500px-Logotipo_de_Mega_%282020-%29.svg.png" , Mega (Chile)
-
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.quierovertv.com/wp-content/uploads/2020/12/cropped-coach_img4-1-3.png" , Ver TV
 
@@ -33,26 +17,12 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://latinartv.com/sites/default/files/logos/coto-brus-tv.jpg" , Coto Brus TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" ,Ciudad Magazine
 
-https://cloudvideo.servers10.com:8081/8030/tracks-v1a1/mono.m3u8
+https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2022/06/power-max-logo-2022.png" ,Power Max
 
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png" ,BBC News (North America)
 
-https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Bzd8M6q/canal5log.png" ,Canal 5
-
-https://channel05.akamaized.net/hls/live/2033783/event01/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/BET-2021Logo.svg/500px-BET-2021Logo.svg.png" ,BET
-
-http://170.254.18.106/BET/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Ciudad_magazine_logo.png" ,Ciudad Magazine
-
-https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
