@@ -37,14 +37,6 @@ https://rtvelivestream-clnx.rtve.es/rtvesec/24h/24h_main.m3u8
 
 https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Logotipo_de_Chilevisi%C3%B3n_Noticias.svg/640px-Logotipo_de_Chilevisi%C3%B3n_Noticias.svg.png" ,Chilevisión Noticias
-
-https://jireh-1-hls-video-ar-isp.dps.live/hls-video/10b92cafdf3646cbc1e727f3dc76863621a327fd/chvn/chvn.smil/playlist_2500.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/500px-CGTN.svg.png" ,CGTN
-
-https://livees.cgtn.com/1000e/prog_index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFQ1NC8/unnamed.png" ,LiveNOW FOX
 
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
@@ -56,6 +48,14 @@ https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WG0pZKL/abcnewslogo.png" ,ABC News Live
 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Telemundo_logo_2018.svg/500px-Telemundo_logo_2018.svg.png" , Telemundo Noticias [California]
+
+https://d3i0aurg3nyoct.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-25zej4uwofrfd/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai=SSSLIVE
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png" ,BBC News (North America)
+
+https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/original/3X/3/e/3e477c08e38a98e78f77a6f08d7611b88b12fb5e.png" ,ABC TV Plus
 
