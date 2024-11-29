@@ -55,19 +55,11 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe0
 
 #EXTINF:-1 tvg-logo="https://assets.podomatic.net/ts/b1/7b/87/podcast34487/1000x1000_3685972.jpg" ,Radio Javan TV
 
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u8
+https://rjtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" ,VH1 Classic
 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://freebeacon.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-14-at-4.21.17-PM.png" ,MTV Good Vibes
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://www.radio21.de/fileadmin/_processed_/e/e/csm_RADIO-21_TV_Logo_b476b636b9.png" ,Radio 21 TV
-
-https://live.creacast.com/radio21/smil:radio21.smil/chunklist_w150358763_b1128000.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FB1pQWL/muzziklogo74561523.png" ,Muzzik
 
@@ -101,11 +93,7 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sQxgLFm/eternal4566156.jpg" ,Eternal Metal
-
-https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tZQ3f0H/vclassic.png" ,VclassicTV
+#EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/09/lovovclassictv_24-e1725897773915.png" ,VclassicTV
 
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
@@ -113,21 +101,9 @@ https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
 https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/x2Hzdqf/tv-exitos.png" , TV Exitos
-
-https://vdo1.streamgato.us:3359/live/tvexitoslive.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.citymusic.be/images/CityMusiclogo.png" , City Music TV
-
-https://5592f056abba8.streamlock.net/citytv/citytv/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/07/Logo-Varo-Version.png" , Voice Over Radio TV
 
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" , Rock TV
-
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb_output_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/500px-NOW_Rock_logo.png" , Now Rock
 
@@ -147,4 +123,4 @@ https://streamlov.alsolnet.com/amplificacion/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://musicworldradio.cl/images/logo.png" ,Musicworld Radio TV
 
-https://cdn.mycloudstream.io/hls/live/broadcast/9b3ke4sb/mono.m3u8
+https://cp.panelchs.com:1936/8192/8192/chunklist.m3u8
