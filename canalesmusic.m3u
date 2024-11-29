@@ -55,7 +55,7 @@ https://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe0
 
 #EXTINF:-1 tvg-logo="https://assets.podomatic.net/ts/b1/7b/87/podcast34487/1000x1000_3685972.jpg" ,Radio Javan TV
 
-https://stream.rjtv.stream/live/smil:rjtv.smil/chunklist_w365906041_b1992000.m3u8
+https://rjtvhls.wns.live/hls/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" ,Canal 26
 
@@ -64,10 +64,6 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Canal_26/SA_HLS/Canal_26.m
 #EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6076cd1df8576d0007c82193/colorLogoPNG.png" ,VH1 Classic
 
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6076cd1df8576d0007c82193/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
-
-#EXTINF:-1 tvg-logo="https://freebeacon.com/wp-content/uploads/2018/03/Screen-Shot-2018-03-14-at-4.21.17-PM.png" ,MTV Good Vibes
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece
 
@@ -137,17 +133,9 @@ https://content.uplynk.com/channel/ext/2118d9222a87420ab69223af9cfa0a0f/kabc_24x
 
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.radio21.de/fileadmin/_processed_/e/e/csm_RADIO-21_TV_Logo_b476b636b9.png" ,Radio 21 TV
-
-https://live.creacast.com/radio21/smil:radio21.smil/chunklist_w150358763_b1128000.m3u8
-
 #EXTINF:-1 tvg-logo="https://mediaspy-org-s3.s3.dualstack.ap-southeast-2.amazonaws.com/original/3X/3/e/3e477c08e38a98e78f77a6f08d7611b88b12fb5e.png" ,ABC TV Plus
 
 https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Foro_TV_%28Canal_4_MX_2022%29.svg/520px-Foro_TV_%28Canal_4_MX_2022%29.svg.png" ,Foro TV
-
-https://channel02-notusa.akamaized.net/hls/live/2023914-b/event01/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvtGBKB/ftv52214.png" ,Fashion TV
 
@@ -165,17 +153,9 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Claro_Sports_logo.svg/800px-Claro_Sports_logo.svg.png" ,Claro Sports
-
-https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9TbtvnD/Dwlogo.png" ,DW
 
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/stream05/streamPlaylist.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/CGTN.svg/500px-CGTN.svg.png" ,CGTN
-
-https://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FB1pQWL/muzziklogo74561523.png" ,Muzzik
 
@@ -321,11 +301,7 @@ https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 
 https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/sQxgLFm/eternal4566156.jpg" ,Eternal Metal
-
-https://vdo.panelstreaming.live:3261/hybrid/play.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/tZQ3f0H/vclassic.png" ,VclassicTV
+#EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/09/lovovclassictv_24-e1725897773915.png" ,VclassicTV
 
 https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
@@ -373,10 +349,6 @@ https://delivery.cdn.rcs.net.ar/mnp/tntnovelas/output.mpd
 
 https://delivery.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Logotipo_de_Mega_%282020-%29.svg/500px-Logotipo_de_Mega_%282020-%29.svg.png" , Mega (Chile)
-
-https://unlimited1-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/500px-USA_Network_logo_%282016%29.svg.png" , USA
 
 https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
@@ -388,10 +360,6 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 tvg-logo="https://www.voiceovercr.com/mayorkilling_weapons/2020/07/Logo-Varo-Version.png" , Voice Over Radio TV
 
 https://cloudvideo.servers10.com:8081/8198/tracks-v1a1/rewind-3600.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Rock_TV.png" , Rock TV
-
-https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/89/NOW_Rock_logo.png/500px-NOW_Rock_logo.png" , Now Rock
 
@@ -419,7 +387,7 @@ https://livetrx01.vodgc.net/live-01-07-ciudad.vodgc.net/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://musicworldradio.cl/images/logo.png" ,Musicworld Radio TV
 
-https://cdn.mycloudstream.io/hls/live/broadcast/9b3ke4sb/mono.m3u8
+https://cp.panelchs.com:1936/8192/8192/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/640px-BBC_News_2022_%28Alt%29.svg.png" ,BBC News (North America)
 
