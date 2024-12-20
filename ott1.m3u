@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" ,Space
 
-https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_DASH/Space.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FDDC8g4/tntlog23.png" ,TNT
 
@@ -15,7 +15,7 @@ https://delivery.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
 
-https://delivery.cdn.rcs.net.ar/mnp/star/output.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_DASH/Star_Channel.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" ,Studio Universal
 
@@ -27,7 +27,7 @@ https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,TyC Sports
 
-https://delivery.cdn.rcs.net.ar/mnp/tycsports/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
 
 #EXTINF:-1 tvg-logo="https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png" ,ESPN
 
@@ -51,11 +51,11 @@ https://delivery.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WyMHJQ8/idlogo2.png" ,ID
 
-https://delivery.cdn.rcs.net.ar/mnp/id/output.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_m.png" ,HGTV
 
-https://delivery.cdn.rcs.net.ar/mnp/hgtv/output.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_DASH/Discovery_HGTV.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W6QsSQV/cronicalogo.png" ,Crónica
 
@@ -67,7 +67,7 @@ https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,La Nación +
 
-https://delivery.cdn.rcs.net.ar/mnp/ln/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/lanacionmas/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qyNR8M/c5log.jpg" ,C5N
 
@@ -79,7 +79,7 @@ https://delivery.cdn.rcs.net.ar/mnp/canal26/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece
 
-https://delivery.cdn.rcs.net.ar/mnp/eltrece/output.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/El_Trece/SA_DASH/El_Trece.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
 
@@ -87,4 +87,4 @@ https://delivery.cdn.rcs.net.ar/mnp/tvpublica/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/500px-Telefe_%28nuevo_logo%29.png" ,Telefe (2)
 
-https://delivery.cdn.rcs.net.ar/mnp/telefe/output.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_DASH/Telefe.mpd
