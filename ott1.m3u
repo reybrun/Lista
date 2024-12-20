@@ -67,7 +67,7 @@ https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,La Nación +
 
-https://delivery.cdn.rcs.net.ar/mnp/lanacion/output.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qyNR8M/c5log.jpg" ,C5N
 
@@ -83,6 +83,5 @@ https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
 
-https://delivery.cdn.rcs.net.ar/mnp/tvpublica/output.mpd
-
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.mpd
 
