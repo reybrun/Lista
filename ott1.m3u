@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" ,Space
 
-https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_DASH_ENCR/Space.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FDDC8g4/tntlog23.png" ,TNT
 
@@ -15,7 +15,7 @@ https://delivery.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
 
-https://delivery.cdn.rcs.net.ar/mnp/starchannel/output.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_DASH_ENCR/Star_Channel.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" ,Studio Universal
 
@@ -27,11 +27,11 @@ https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/mbhtzz5/tyclogo.png" ,TyC Sports
 
-https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/tycsports/SA_DASH_ENCR/tycsports.mpd
 
 #EXTINF:-1 tvg-logo="https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png" ,ESPN
 
-https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_DASH_ENCR/ESPN.mpd
 
 #EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" ,ESPN 2
 
@@ -67,7 +67,7 @@ https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,La Nación +
 
-https://delivery.cdn.rcs.net.ar/mnp/lnmas/output.mpd
+https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_DASH_ENCR/LN.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qyNR8M/c5log.jpg" ,C5N
 
