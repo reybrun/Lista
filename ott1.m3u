@@ -67,7 +67,7 @@ https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,La Nación +
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.mpd
+https://delivery.cdn.rcs.net.ar/mnp/lnmas/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qyNR8M/c5log.jpg" ,C5N
 
