@@ -13,7 +13,7 @@ https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
 
 https://delivery.cdn.rcs.net.ar/mnp/tvp_hls/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://seeklogo.com/images/E/elnueve-ls83-tv-canal-9-logo-ED93AA8C82-seeklogo.com.png" ,Canal 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/200px-Canal_9_2015.png" ,Canal 9
 
 https://delivery.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
