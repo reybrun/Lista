@@ -35,7 +35,7 @@ https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 ,Discovery H&H
 https://delivery.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 #EXTINF:-1 ,Discovery ID
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_DASH/Discovery_ID.mpd
+https://delivery.cdn.rcs.net.ar/mnp/dsc_id/output.mpd
 #EXTINF:-1 ,Discovery SCI
 https://delivery.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 #EXTINF:-1 ,Discovery Turbo
