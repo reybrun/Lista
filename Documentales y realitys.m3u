@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WyMHJQ8/idlogo2.png" ,ID
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/disc_ID/output.mpd
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_m.png" ,HGTV
 
@@ -20,6 +20,14 @@ https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SP8t7JX/dcha.png" ,Discovery Channel
 
 https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/500px-Discovery_Home_%26_Health_logo.svg.png" ,Discovery Home & Health
+
+https://delivery.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/500px-TLC_logo_%282023%29.svg.png" ,TLC
+
+https://delivery.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0041/9194/4817/t/15/assets/logo-image-file.png" ,FailArmy
 
