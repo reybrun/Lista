@@ -3,19 +3,23 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" ,Space
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Space/SA_HLS/Space.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/spacehd/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" ,Cinemax
+
+https://delivery.cdn.rcs.net.ar/mnp/cinemax_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FDDC8g4/tntlog23.png" ,TNT
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_HLS/TNT.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q73TJ09/cclogo.png" ,Cinecanal
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRTV88f/fxlogoar.png" ,FX
 
@@ -41,13 +45,17 @@ https://delivery.cdn.rcs.net.ar/mnp/comedy/output.mpd
 
 https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" ,AMC
+
+https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" ,Studio Universal
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/studiouniversal/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/700px-Universal_TV_logo.svg.png" ,Universal TV
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Universal/SA_HLS/Universal.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/500px-USA_Network_logo_%282016%29.svg.png" , USA
 
