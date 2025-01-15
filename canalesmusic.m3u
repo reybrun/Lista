@@ -191,7 +191,7 @@ https://telefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Star_Channel/SA_HLS/Star_Channel.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRTV88f/fxlogoar.png" ,FX
 
@@ -211,7 +211,7 @@ https://delivery.cdn.rcs.net.ar/mnp/comedy/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q73TJ09/cclogo.png" ,Cinecanal
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cinecanal/SA_HLS/Cinecanal.m3u8
+https://delivery.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mp7ZHW8/paranetlogo.png" ,Paramount Network
 
@@ -232,6 +232,10 @@ https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" ,Studio Universal
 
 https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" ,AMC
+
+https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/HBO_blanco.png/revision/latest?cb=20220106150908&path-prefix=es" ,HBO
 
@@ -268,6 +272,14 @@ https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SP8t7JX/dcha.png" ,Discovery Channel
 
 https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/500px-Discovery_Home_%26_Health_logo.svg.png" ,Discovery Home & Health
+
+https://delivery.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/500px-TLC_logo_%282023%29.svg.png" ,TLC
+
+https://delivery.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" ,MTV
 
