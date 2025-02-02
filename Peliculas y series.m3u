@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" ,Space
 
-https://delivery.cdn.rcs.net.ar/mnp/spacehd/output.mpd
+https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Cinemax_%28Yellow%29.svg/500px-Cinemax_%28Yellow%29.svg.png" ,Cinemax
 
@@ -76,6 +76,14 @@ https://delivery.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DWJxrjg/hbopop.png" ,HBO Pop
 
 https://delivery.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S8SyPF6/hbomundi8547.png" ,HBO Mundi
+
+https://delivery.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/KgcKY1D/hboxtreme785457.png" ,HBO Xtreme
+
+https://delivery.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQcVYCV/TNT-Novelas-logo-2023.png" , TNT Novelas
 
