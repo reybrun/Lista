@@ -93,13 +93,9 @@ https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
 
 https://abr.de1se01.v2beat.live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/09/lovovclassictv_24-e1725897773915.png" ,VclassicTV Latino
-
-https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
-
 #EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/09/lovovclassictv_24-e1725897773915.png" ,VclassicTV
 
-https://5eaccbab48461.streamlock.net:1936/8230/ngrp:8230_all/chunklist.m3u8
+https://5eaccbab48461.streamlock.net:1936/8112/8112/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/CK0ff2p/vintage266.png" ,Vintage Music
 
