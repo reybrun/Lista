@@ -111,4 +111,8 @@ https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTINF:-1 ,Telefe
 https://delivery.cdn.rcs.net.ar/mnp/telefe/output.mpd
 #EXTINF:-1 ,espn (2)
-https://ixp-nqn.origin.rcs.net.ar/mnp/espn/output.mpd
+https://ayf.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
+#EXTINF:-1 ,espn (3)
+https://ayf.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+#EXTINF:-1 ,espn (2)
+https://ayf.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
