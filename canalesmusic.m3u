@@ -401,6 +401,10 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cloudfront-arc.cienradios.com/la100/logo/logo.png" ,La 100
+
+https://live-05-13-la100.vodgc.net/live-05-13-la100/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.fmpowermax.com.ar/wp-content/uploads/2022/06/power-max-logo-2022.png" ,Power Max
 
 https://videostream.shockmedia.com.ar:19360/radio1045/radio1045.m3u8
