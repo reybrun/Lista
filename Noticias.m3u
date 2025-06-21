@@ -3,27 +3,27 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W6QsSQV/cronicalogo.png" ,Crónica
 
-https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
+https://router.cdn.rcs.net.ar/mnp/cronica/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN
 
-https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
+https://router.cdn.rcs.net.ar/mnp/tn/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lz35dYC7/a24log.png" ,A24
 
-https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
+https://router.cdn.rcs.net.ar/mnp/a24/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,La Nación +
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qyNR8M/c5log.jpg" ,C5N
 
-https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
+https://router.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Canal_26_logo_%282022%29.svg/500px-Canal_26_logo_%282022%29.svg.png" ,Canal 26
 
-https://delivery.cdn.rcs.net.ar/mnp/canal26/output.mpd
+https://router.cdn.rcs.net.ar/mnp/canal26/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/9TbtvnD/Dwlogo.png" ,DW
 
