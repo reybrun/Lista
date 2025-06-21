@@ -37,6 +37,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf00071
 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" ,MTV
+
+https://router.cdn.rcs.net.ar/mnp/mtv/output.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0mn38HJ/mtvrealitylog.png" ,MTV Reality
 
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91b7ea86ee60009d89e75/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae22-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=660d0b2a-7fb6-45ce-9752-4b5be4f0e398&userId=&serverSideAds=true
