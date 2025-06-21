@@ -99,31 +99,31 @@ https://router.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Fox_Sports_2_Argentina_2023.svg/500px-Fox_Sports_2_Argentina_2023.svg.png" ,Fox Sports 2
 
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
+https://router.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Fox_Sports_3_Argentina_2023.svg/500px-Fox_Sports_3_Argentina_2023.svg.png" ,Fox Sports 3
 
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 
 #EXTINF:-1 tvg-logo="https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png" ,ESPN
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/ESPN/SA_HLS/ESPN.m3u8
 
 #EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" ,ESPN 2
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_HLS/ESPN2.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QDWBZrB/esp3.png" ,ESPN 3
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/ESPN3/SA_HLS/ESPN3.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Yt3zz8B/4-ESPNPremium.png" ,ESPN Premium
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_HLS/ESPN_Premium.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/TYchRzF/tntsprtslogo24.png" ,TNT Sports
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/TNT_Sports/SA_HLS/TNT_Sports.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hFQ1NC8/unnamed.png" ,LiveNOW FOX
 
@@ -195,99 +195,99 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YWznQ5k/starchlogo.png" ,Star Channel
 
-https://delivery.cdn.rcs.net.ar/mnp/foxhd/output.mpd
+https://router.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/LRTV88f/fxlogoar.png" ,FX
 
-https://delivery.cdn.rcs.net.ar/mnp/fx/output.mpd
+https://router.cdn.rcs.net.ar/mnp/fx/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" ,Space
 
-https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
+https://router.cdn.rcs.net.ar/mnp/space/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FDDC8g4/tntlog23.png" ,TNT
 
-https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
+https://router.cdn.rcs.net.ar/mnp/tnt/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/F6SR26t/cocen.png" ,Comedy Central
 
-https://delivery.cdn.rcs.net.ar/mnp/comedy/output.mpd
+https://router.cdn.rcs.net.ar/mnp/comedy/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/q73TJ09/cclogo.png" ,Cinecanal
 
-https://delivery.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
+https://router.cdn.rcs.net.ar/mnp/cinecanal/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Mp7ZHW8/paranetlogo.png" ,Paramount Network
 
-https://delivery.cdn.rcs.net.ar/mnp/paramount/output.mpd
+https://router.cdn.rcs.net.ar/mnp/paramount/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Sony_Channel_Logo.png" ,Sony
 
-https://delivery.cdn.rcs.net.ar/mnp/sony/output.mpd
+https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DLwk8dt/wchtv.png" ,Warner Channel
 
-https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
+https://router.cdn.rcs.net.ar/mnp/warner/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/800px-TCM_Latam_logo.svg.png" ,TCM
 
-https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
+https://router.cdn.rcs.net.ar/mnp/tcm/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" ,Studio Universal
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" ,AMC
 
-https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
+https://router.cdn.rcs.net.ar/mnp/amc/output.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/58/HBO_blanco.png/revision/latest?cb=20220106150908&path-prefix=es" ,HBO
 
-https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd
+https://router.cdn.rcs.net.ar/mnp/hbo/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/700px-Universal_TV_logo.svg.png" ,Universal TV
 
-https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
+https://router.cdn.rcs.net.ar/mnp/universal/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5LwqMcw/hb2lo.png" ,HBO 2
 
-https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
+https://router.cdn.rcs.net.ar/mnp/hbo2/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GctCWK3/hboplus.png" ,HBO Plus
 
-https://delivery.cdn.rcs.net.ar/mnp/hboplus/output.mpd
+https://router.cdn.rcs.net.ar/mnp/hboplus/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/DWJxrjg/hbopop.png" ,HBO Pop
 
-https://delivery.cdn.rcs.net.ar/mnp/hbopop/output.mpd
+https://router.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S8SyPF6/hbomundi8547.png" ,HBO Mundi
 
-https://delivery.cdn.rcs.net.ar/mnp/hbomund/output.mpd
+https://router.cdn.rcs.net.ar/mnp/hbomund/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KgcKY1D/hboxtreme785457.png" ,HBO Xtreme
 
-https://delivery.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
+https://router.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WyMHJQ8/idlogo2.png" ,ID
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discovery_ID.m3u8
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_m.png" ,HGTV
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/471?cb=20211213232008&path-prefix=es" ,History
 
-https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
+https://router.cdn.rcs.net.ar/mnp/history/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SP8t7JX/dcha.png" ,Discovery Channel
 
-https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
+https://router.cdn.rcs.net.ar/mnp/discovery/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/500px-Discovery_Home_%26_Health_logo.svg.png" ,Discovery Home & Health
 
-https://delivery.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
+https://router.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/500px-TLC_logo_%282023%29.svg.png" ,TLC
 
@@ -295,7 +295,7 @@ https://delivery.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" ,MTV
 
-https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
+https://router.cdn.rcs.net.ar/mnp/mtv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" ,Net TV
 
@@ -303,7 +303,7 @@ https://unlimited1-cl-isp.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN
 
-https://delivery.cdn.rcs.net.ar/mnp/tn/output.mpd
+https://router.cdn.rcs.net.ar/mnp/tn/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W6QsSQV/cronicalogo.png" ,Crónica
 
@@ -311,15 +311,15 @@ https://delivery.cdn.rcs.net.ar/mnp/cronica/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lz35dYC7/a24log.png" ,A24
 
-https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
+https://router.cdn.rcs.net.ar/mnp/a24/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/0qyNR8M/c5log.jpg" ,C5N
 
-https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
+https://router.cdn.rcs.net.ar/mnp/c5n/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/5RDBpBZ/lnmaslogoar.png" ,La Nación +
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4kDshJ/miatvlog.png" ,Miami TV
 
@@ -335,11 +335,11 @@ https://59ef525c24caa.streamlock.net/vmtv/tvvintage/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/500px-Telefe_%28nuevo_logo%29.png" ,Telefe (2)
 
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
+https://router.cdn.rcs.net.ar/anevia/live/localdisk/Telefe/SA_HLS/Telefe.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nb9ztYX/aelog.png" ,A&E
 
-https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
+https://router.cdn.rcs.net.ar/mnp/ae/output.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0041/9194/4817/t/15/assets/logo-image-file.png" ,FailArmy
 
@@ -371,15 +371,15 @@ https://5f700d5b2c46f.streamlock.net/vertv/vertv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/GQcVYCV/TNT-Novelas-logo-2023.png" , TNT Novelas
 
-https://delivery.cdn.rcs.net.ar/mnp/tntnovelas/output.mpd
+https://router.cdn.rcs.net.ar/mnp/tntnovelas/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KxcDy3K/deportvlogo.png" , DeporTV
 
-https://delivery.cdn.rcs.net.ar/mnp/dxtv/output.mpd
+https://router.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/500px-USA_Network_logo_%282016%29.svg.png" , USA
 
-https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
+https://router.cdn.rcs.net.ar/mnp/syfy/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wML8p0f/rbtv-logo.png" , RedBull TV
 
