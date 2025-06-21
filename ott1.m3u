@@ -3,9 +3,9 @@
 
 #EXTM3U
 #EXTINF:-1 ,TNT SPORTS
-https://delivery.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+https://router.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:-1 ,ESPN PREMIUM
-https://delivery.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+https://router.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 ,Fox Sports
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 #EXTINF:-1 ,Fox Sports 2
@@ -35,7 +35,7 @@ https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
 #EXTINF:-1 ,Discovery H&H
 https://delivery.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 #EXTINF:-1 ,Discovery ID
-https://delivery.cdn.rcs.net.ar/mnp/dsc_id/output.mpd
+https://router.cdn.rcs.net.ar/mnp/dsc_id/output.mpd
 #EXTINF:-1 ,Discovery SCI
 https://delivery.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
 #EXTINF:-1 ,Discovery Turbo
