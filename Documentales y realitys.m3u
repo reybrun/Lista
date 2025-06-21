@@ -3,31 +3,31 @@
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/WyMHJQ8/idlogo2.png" ,ID
 
-https://delivery.cdn.rcs.net.ar/mnp/disc_id/output.mpd
+https://router.cdn.rcs.net.ar/mnp/disc_id/output.mpd
 
 #EXTINF:-1 tvg-logo="https://imgx.fubo.tv/station_logos/hgtv_m.png" ,HGTV
 
-https://delivery.cdn.rcs.net.ar/mnp/disc_hgtv/output.mpd
+https://router.cdn.rcs.net.ar/mnp/disc_hgtv/output.mpd
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/471?cb=20211213232008&path-prefix=es" ,History
 
-https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
+https://router.cdn.rcs.net.ar/mnp/history/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/nb9ztYX/aelog.png" ,A&E
 
-https://delivery.cdn.rcs.net.ar/mnp/ae/output.mpd
+https://router.cdn.rcs.net.ar/mnp/ae/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SP8t7JX/dcha.png" ,Discovery Channel
 
-https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
+https://router.cdn.rcs.net.ar/mnp/discovery/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Discovery_Home_%26_Health_logo.svg/500px-Discovery_Home_%26_Health_logo.svg.png" ,Discovery Home & Health
 
-https://delivery.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
+https://router.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/TLC_logo_%282023%29.svg/500px-TLC_logo_%282023%29.svg.png" ,TLC
 
-https://delivery.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
+https://router.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
 
 #EXTINF:-1 tvg-logo="https://cdn.shopify.com/s/files/1/0041/9194/4817/t/15/assets/logo-image-file.png" ,FailArmy
 
