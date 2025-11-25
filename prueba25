@@ -1,13 +1,17 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Fox_Sports_Argentina_2023.svg/640px-Fox_Sports_Argentina_2023.svg.png" ,Fox Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,América TV
 
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/TNT/SA_DASH/TNT.mpd
+https://router.cdn.rcs.net.ar/mnp/americatv/output.mpd
 
-#EXTINF:-1 tvg-logo="https://symphoniclatino.com/wp-content/uploads/2020/05/ESPN-Logo.png" ,ESPN
+#EXTINF:-1 tvg-logo="https://i.ibb.co/W6QsSQV/cronicalogo.png" ,Crónica
 
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/ESPN_Premium/SA_DASH/ESPN_Premium.mpd
+https://router.cdn.rcs.net.ar/mnp/cronicatv/output.mpd
 
-#EXTINF:-1 tvg-logo="https://secure.espncdn.com/watchespn/images/channels/017f41a2-ef4f-39d3-9f45-f680b88cd23b.png" ,ESPN 2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN
 
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/ESPN2/SA_DASH/ESPN2.mpd
+https://router.cdn.rcs.net.ar/mnp/todonoticias/output.mpd
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Lz35dYC7/a24log.png" ,A24
+
+https://router.cdn.rcs.net.ar/mnp/america24/output.mpd
