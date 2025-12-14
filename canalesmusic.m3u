@@ -393,6 +393,10 @@ https://router.cdn.rcs.net.ar/mnp/dxtv/output.mpd
 
 https://router.cdn.rcs.net.ar/mnp/syfy/output.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/HLfQmCV0/vortelogo.png" ,Vorterix
+
+https://g3.mc-hor.transport.edge-access.net/b04/ngrp:vorterix_video1-20057_all/vorterix_video1-20057.m3u8?sense=true
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/wML8p0f/rbtv-logo.png" , RedBull TV
 
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
