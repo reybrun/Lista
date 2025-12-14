@@ -91,7 +91,7 @@ https://router.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,América TV
 
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+https://router.cdn.rcs.net.ar/mnp/america/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece (2)
 
