@@ -91,7 +91,7 @@ https://router.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,América TV
 
-https://router.cdn.rcs.net.ar/mnp/america/output.mpd
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece (2)
 
@@ -319,7 +319,7 @@ https://router.cdn.rcs.net.ar/mnp/tn/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/W6QsSQV/cronicalogo.png" ,Crónica
 
-https://router.cdn.rcs.net.ar/mnp/cronica/output.mpd
+https://g1.vxral-hor.transport.edge-access.net/a14/ngrp:cronicatv_video1-100044_all/playlist.m3u8?sense=true
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Lz35dYC7/a24log.png" ,A24
 
