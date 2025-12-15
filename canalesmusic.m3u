@@ -151,7 +151,7 @@ https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea09
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/QvtGBKB/ftv52214.png" ,Fashion TV
 
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/video_10801920_p_0.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/7bPZTzk/logog22.jpg" ,QMusic
 
@@ -335,7 +335,7 @@ https://router.cdn.rcs.net.ar/anevia/live/localdisk/LN/SA_HLS/LN.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/g4kDshJ/miatvlog.png" ,Miami TV
 
-https://59ec5453559f0.streamlock.net/Latino/smil:WEB/chunklist.m3u8
+https://6478139b04f94cf6a3e52c06b84c8d48.mediatailor.us-east-2.amazonaws.com/v1/manifest/c3d3fd1c31fa281b88eab2cd253e2ca576b6628b/fast-latino/dcd6bf1f-ef37-4782-996c-ded537c15a77/0.m3u8
 
 #EXTINF:-1 tvg-logo="https://vclassictv.cl/wp-content/uploads/2024/09/lovovclassictv_24-e1725897773915.png" ,VclassicTV
 
