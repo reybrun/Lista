@@ -3,7 +3,9 @@
 
 #EXTM3U
 #EXTINF:-1 ,TNT SPORTS
-https://router.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+https://el4live1.boldmss.com/TNTS/TNTS.isml/TNTS.mpd
+#EXTINF:-1 ,TNT SPORTS 2
+https://router.cdn.rcs.net.ar/mnp/TNTS/output.mpd
 #EXTINF:-1 ,ESPN PREMIUM
 https://router.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 ,Fox Sports
@@ -11,11 +13,11 @@ https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 #EXTINF:-1 ,Fox Sports 2
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
 #EXTINF:-1 ,Fox Sports 3
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
+https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
 #EXTINF:-1 ,TYC SPORT
-https://delivery.cdn.rcs.net.ar/mnp/tyc/output.mpd
+https://el4live1.boldmss.com/TYC/TYC.isml/TYC.mpd
 #EXTINF:-1 ,Espn
-https://delivery.cdn.rcs.net.ar/mnp/espn/output.mpd
+https://router.cdn.rcs.net.ar/mnp/espn/output.mpd
 #EXTINF:-1 ,Espn2
 https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
 #EXTINF:-1 ,Espn3
@@ -54,14 +56,14 @@ http://170.83.242.30:5350/play/a00d
 https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 ,Syfy
 https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
-#EXTINF:-1 ,TLC
-https://delivery.cdn.rcs.net.ar/mnp/dsc_tlc/output.mpd
+#EXTINF:-1 ,TNT
+http://chromecast.stg.cvattv.com.ar/live/live2/TNT/SA_Live_fta/TNT.m3u8
 #EXTINF:-1 ,TCM
 https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
 #EXTINF:-1 ,AMC
 https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
 #EXTINF:-1 ,FX
-https://delivery.cdn.rcs.net.ar/mnp/fx/output.mpd
+http://chromecast.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/FXHD.m3u8
 #EXTINF:-1 ,HBO
 https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd
 #EXTINF:-1 ,HBO 2
@@ -109,10 +111,10 @@ https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
 #EXTINF:-1 ,Canal 13
 https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
 #EXTINF:-1 ,Telefe
-https://delivery.cdn.rcs.net.ar/mnp/telefe/output.mpd
+https://router.cdn.rcs.net.ar/iptelva/ch8cba/output.mpd
 #EXTINF:-1 ,espn (2)
 https://ayf.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
-#EXTINF:-1 ,espn (3)
-https://ayf.cdn.rcs.net.ar/mnp/tntsports/output.mpd
-#EXTINF:-1 ,espn (2)
-https://ayf.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
+#EXTINF:-1 ,cronica
+https://el4live1.boldmss.com/CRONICA/CRONICA.isml/CRONICA.mpd
+#EXTINF:-1 ,TN
+http://chromecast.stg.cvattv.com.ar/live/live2/TodoNoticias/SA_Live_fta/ TodoNoticias.m3u8
