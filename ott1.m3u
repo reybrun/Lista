@@ -1,11 +1,11 @@
 #EXTM3U
 
-#EXTINF:-1 ,TNT SPORTS
-https://el4live1.boldmss.com/TNTS/TNTS.isml/TNTS.mpd
+#EXTINF:-1 ,america
+https://router.cdn.rcs.net.ar/iptelva/america/output.mpd
 #EXTINF:-1 ,TNT SPORTS 2
 https://router.cdn.rcs.net.ar/mnp/TNTS/output.mpd
 #EXTINF:-1 ,ESPN PREMIUM
-https://router.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+https://router.cdn.rcs.net.ar/iptelva/espnpremium/output.mpd
 #EXTINF:-1 ,Fox Sports
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 #EXTINF:-1 ,Fox Sports 2
@@ -55,9 +55,9 @@ https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 ,Syfy
 https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
 #EXTINF:-1 ,TNT
-http://chromecast.stg.cvattv.com.ar/live/live2/TNT/SA_Live_fta/TNT.m3u8
+https://delivery.cdn.rcs.net.ar/iptelva/tnt/output.mpd
 #EXTINF:-1 ,TCM
-https://delivery.cdn.rcs.net.ar/mnp/tcm/output.mpd
+http://chromecast.stg.cvattv.com.ar/live/live2/TNT/SA_Live_fta/TNT.m3u8
 #EXTINF:-1 ,AMC
 https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
 #EXTINF:-1 ,FX
@@ -79,7 +79,7 @@ https://delivery.cdn.rcs.net.ar/mnp/hbopop/output.mpd
 #EXTINF:-1 ,HBO Signature
 https://delivery.cdn.rcs.net.ar/mnp/hbosig/output.mpd
 #EXTINF:-1 ,TNT
-https://delivery.cdn.rcs.net.ar/mnp/tnt/output.mpd
+https://delivery.cdn.rcs.net.ar/iptelva/tnt/output.mpd
 #EXTINF:-1 ,TNT Series
 https://delivery.cdn.rcs.net.ar/mnp/tntseries/output.mpd
 #EXTINF:-1 ,Universal Channel
