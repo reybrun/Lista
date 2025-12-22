@@ -3,7 +3,7 @@
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/500px-Telefe_%28nuevo_logo%29.png" ,Telefe
 
-https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS?.m3u8
+https://router.cdn.rcs.net.ar/iptelva/ch8cba/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece
 
@@ -19,15 +19,13 @@ https://router.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,América TV
 
+#EXTVLCOPT:Mozilla/5.0 (Linux; Android 10; SM-G975F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.58 Mobile Safari/537.36
+
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a5/Net_TV_logo.png" ,Net TV
 
 https://unlimited1-buenosaires.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/500px-Telefe_%28nuevo_logo%29.png" ,Telefe (2)
-
-https://router.cdn.rcs.net.ar/mnp/telefe_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece (2)
 
