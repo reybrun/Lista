@@ -1,6 +1,70 @@
 #EXTM3U
 
 
+#EXTINF:-1 tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" ,Music Box Classic
+
+https://dash2.antik.sk/live1/mb_classic/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2r4Ltqj/xiteloogo.png" ,XITE Hits
+
+https://xite-samsung-de-tsv2-g31rd.amagi.tv/playlist/xiteaaaaa-xite-samsung-de/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.tc_string=%7BTC_STRING%7D&ads.coppa=0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2r4Ltqj/xiteloogo.png" ,XITE Rock/Metal
+
+https://d198ro05q94rc4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-c5xdq9qwilrd2/XITE_Rock_On.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.service_id=USBB2300004KV
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2r4Ltqj/xiteloogo.png" ,XITE 80s Flashback
+
+https://d1n314cytqn9r3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-bklagqy82v0pr/XITE_80s_Flashback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBB320000647
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/2r4Ltqj/xiteloogo.png" ,XITE 90s Throwback
+
+https://d284aawtm5vi48.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-fjdfi2br1jtq7/XITE_90s_Throwback.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBB3200007AK
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ynQXmwSQ/538logo.png" ,Radio 538
+
+https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/qYJyxbgj/rocktvlogo.png" ,Rock TV
+
+https://chili-rock-tv-1-it.samsung.wurl.tv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/VcMvTYv5/uradio.png" ,RadioU TV
+
+https://1840571692.rsc.cdn77.org/1840571692/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/Rk6xrQpp/hhyvlog.png" ,Hip Hop TV
+
+https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8?ads.wurl_channel=1366&ads.wurl_name=HipHopTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
+
+#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO 70s
+
+https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO 90s
+
+https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO 2K
+
+https://aka-live1050.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO Rock
+
+https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO Hip-Hop
+
+https://aka-live1050.delivery.roku.com/04bfc270-3919-495e-a61d-39814ab58131/t2-origin/out/v1/live.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO Retro Rock
+
+https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD3000145P
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" ,MTV
+
+https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbwN0JYt/mtvcla.png" ,MTV Classic (US)
 
 http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
@@ -8,54 +72,6 @@ http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/v618GNQx/ZLR32yr-G-400x400.jpg" ,MTV Live
 
 http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/Ch144LN/mtvrockslog.png" ,MTV Rocks
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a01b52a4ee27000808ea36/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fc31252d35decbc4080b/colorLogoPNG.png" ,MTV YO!
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jJT32YN/mtvfl.png" ,MTV Flow Latino
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/6047fabfce6e8e00070bcc9f/colorLogoPNG.png" ,MTV Biggest Pop
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fd1a252d35decbc4080c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://images.pluto.tv/channels/5d14fdb8ca91eedee1633117/colorLogoPNG.png" ,MTV Spankin' New
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/bLPQZ4k/MTVlogoclass.png" ,MTV Classic
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/66a11a21a79dea0008aa90ca/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO 90s
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO 2K
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO Pop
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO R&B
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO Hip-Hop
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4c2817a823d00070ba53e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
-
-#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO Rock/Metal
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/61d4b38226b8a50007fe03a6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gFSLV89x/caro2logo.png" ,Carolina 2
 
@@ -93,10 +109,3 @@ https://lightning-now70s-samsungnz.amagi.tv/playlist.m3u8
 
 https://lightning-now80s-samsungnz.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://musicworldradio.cl/images/logo.png" ,Musicworld Radio TV
-
-https://cp.panelchs.com:1936/8192/8192/chunklist.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jLKzQWw/splogo555556.png" ,South Park
-
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=false
