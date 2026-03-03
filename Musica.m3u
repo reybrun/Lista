@@ -61,10 +61,6 @@ https://aka-live1050.delivery.roku.com/04bfc270-3919-495e-a61d-39814ab58131/t2-o
 
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD3000145P
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" ,MTV
-
-https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
-
 #EXTINF:-1 tvg-logo="https://i.ibb.co/FbwN0JYt/mtvcla.png" ,MTV Classic (US)
 
 http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
