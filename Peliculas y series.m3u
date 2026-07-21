@@ -1,7 +1,7 @@
 #EXTM3U
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" ,Space
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jDz8dKQ/space-logo.png" ,Space
 
 https://router.cdn.rcs.net.ar/mnp/space/output.mpd
 
@@ -41,7 +41,7 @@ https://router.cdn.rcs.net.ar/mnp/warner/output.mpd
 
 https://router.cdn.rcs.net.ar/mnp/comedy/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/800px-TCM_Latam_logo.svg.png" ,TCM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23MhKZ8D/tcmlogo.png" ,TCM
 
 https://router.cdn.rcs.net.ar/mnp/tcm/output.mpd
 
@@ -53,7 +53,7 @@ https://router.cdn.rcs.net.ar/mnp/amc/output.mpd
 
 https://router.cdn.rcs.net.ar/mnp/studiouniversal/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/700px-Universal_TV_logo.svg.png" ,Universal TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S43KqqHd/universal56.png" ,Universal TV
 
 https://router.cdn.rcs.net.ar/mnp/universal/output.mpd
 
@@ -84,10 +84,6 @@ https://router.cdn.rcs.net.ar/mnp/hbomund/output.mpd
 #EXTINF:-1 tvg-logo="https://i.ibb.co/KgcKY1D/hboxtreme785457.png" ,HBO Xtreme
 
 https://router.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/GQcVYCV/TNT-Novelas-logo-2023.png" , TNT Novelas
-
-https://router.cdn.rcs.net.ar/mnp/tntnovelas/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/jLKzQWw/splogo555556.png" ,South Park
 
