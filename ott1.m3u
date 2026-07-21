@@ -1,11 +1,11 @@
 #EXTM3U
 
 #EXTINF:-1 ,america
-https://router.cdn.rcs.net.ar/iptelva/ch8mdp/output.mpd
+https://router.cdn.rcs.net.ar/mnp/america/output.mpd
 #EXTINF:-1 ,TNT SPORTS 2
-https://router.cdn.rcs.net.ar/mnp/TNTS/output.mpd
+https://router.cdn.rcs.net.ar/mnp/tntsports/output.mpd
 #EXTINF:-1 ,ESPN PREMIUM
-https://router.cdn.rcs.net.ar/iptelva/espnpremium/output.mpd
+https://router.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
 #EXTINF:-1 ,Fox Sports
 https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
 #EXTINF:-1 ,Fox Sports 2
@@ -48,8 +48,8 @@ https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
 http://delivery.cdn.rcs.net.ar/mnp/paramount/output.mpd
 #EXTINF:-1 ,Star Channel
 https://delivery.cdn.rcs.net.ar/mnp/foxhd/output.mpd
-#EXTINF:-1,Claro cinema
-http://170.83.242.30:5350/play/a00d
+#EXTINF:-1,investigation
+https://delivery.cdn.rcs.net.ar/mnp/id/output.mpd
 #EXTINF:-1 ,Space
 https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
 #EXTINF:-1 ,Syfy
