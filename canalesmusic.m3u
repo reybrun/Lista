@@ -61,7 +61,7 @@ https://aka-live1050.delivery.roku.com/04bfc270-3919-495e-a61d-39814ab58131/t2-o
 
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD3000145P
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/800px-MTV_2021_%28brand_version%29.svg.png" ,MTV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/b9bKqLt/MTV-logo-500x281.png" ,MTV
 
 https://delivery.cdn.rcs.net.ar/mnp/mtv/output.mpd
 
@@ -121,17 +121,13 @@ https://router.cdn.rcs.net.ar/mnp/el13/output.mpd
 
 https://cntlnk-main-edge-access.dlt.qwilted-cds.cqloud.com/entrypoint/c7_vivo01_dai_source-20001_all_720p.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Canal_9_2015.png/200px-Canal_9_2015.png" ,Canal 9
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" ,Canal 9
 
 https://router.cdn.rcs.net.ar/mnp/elnueve_hls/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c8/Am%C3%A9rica_TV_%28Nuevo_logo_Junio_2020%29.png" ,América TV
 
 https://router.cdn.rcs.net.ar/mnp/america/output.mpd
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece (2)
-
-https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/500px-Telefe_%28nuevo_logo%29.png" ,Telefe
 
@@ -193,7 +189,7 @@ https://router.cdn.rcs.net.ar/mnp/foxhd/output.mpd
 
 https://router.cdn.rcs.net.ar/mnp/fx/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/800px-SpaceLogo.svg.png" ,Space
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0jDz8dKQ/space-logo.png" ,Space
 
 https://router.cdn.rcs.net.ar/mnp/space/output.mpd
 
@@ -221,7 +217,7 @@ https://router.cdn.rcs.net.ar/mnp/sony/output.mpd
 
 https://router.cdn.rcs.net.ar/mnp/warner/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/TCM_Latam_logo.svg/800px-TCM_Latam_logo.svg.png" ,TCM
+#EXTINF:-1 tvg-logo="https://i.ibb.co/23MhKZ8D/tcmlogo.png" ,TCM
 
 https://router.cdn.rcs.net.ar/mnp/tcm/output.mpd
 
@@ -237,7 +233,7 @@ https://router.cdn.rcs.net.ar/mnp/amc/output.mpd
 
 https://router.cdn.rcs.net.ar/mnp/hbo/output.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Universal_TV_logo.svg/700px-Universal_TV_logo.svg.png" ,Universal TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S43KqqHd/universal56.png" ,Universal TV
 
 https://router.cdn.rcs.net.ar/mnp/universal/output.mpd
 
