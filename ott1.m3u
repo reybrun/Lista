@@ -4,5 +4,8 @@
 
 https://router.cdn.rcs.net.ar/mnp/america/output.mpd
 
+#EXTINF:-1,tnt
+
+http://chromecast.stg.cvattv.com.ar/live/live2/TNT/SA_Live_fta/TNT.m3u8
 
 
