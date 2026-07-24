@@ -4,12 +4,16 @@
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 |User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
 #EXTINF:-1 ,america
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8 |User-Agent=Mozilla/5.0&Referer=https://www.americatv.com.ar
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8|User-Agent=Mozilla/5.0&Referer=https://www.americatv.com.ar
 
+#EXTINF:-1 ,america
 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8|User-Agent=Mozilla/5.0
