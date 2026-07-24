@@ -1,11 +1,12 @@
 #EXTM3U
 
 #EXTINF:-1,America TV
-https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36&referer=https://americatv.com.ar
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 9; KFTRWI) AppleWebKit/537.36 (KHTML, like Gecko) Silk/115.0.0.0 Safari/537.36
 
 
-#EXTINF:-1 tvg-name="America TV" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36" http-referrer="https://americatv.com.ar"
+#EXTINF:-1 tvg-name="America TV" http-user-agent="Mozilla/5.0 (Linux; Android 9; KFTRWI) AppleWebKit/537.36 (KHTML, like Gecko) Silk/115.0.0.0 Safari/537.36"
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8
+
 
 
 
