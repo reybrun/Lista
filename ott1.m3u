@@ -1,118 +1,15 @@
 #EXTM3U
 
 #EXTINF:-1 ,america
-https://router.cdn.rcs.net.ar/mnp/america/output.mpd
-#EXTINF:-1 ,TNT SPORTS 2
-https://router.cdn.rcs.net.ar/mnp/tntsports/output.mpd
-#EXTINF:-1 ,ESPN PREMIUM
-https://router.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
-#EXTINF:-1 ,Fox Sports
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport/output.mpd
-#EXTINF:-1 ,Fox Sports 2
-https://delivery.cdn.rcs.net.ar/mnp/fox_sport2/output.mpd
-#EXTINF:-1 ,Fox Sports 3
-https://router.cdn.rcs.net.ar/mnp/fox_sport3/output.mpd
-#EXTINF:-1 ,TYC SPORT
-https://el4live1.boldmss.com/TYC/TYC.isml/TYC.mpd
-#EXTINF:-1 ,Espn
-https://router.cdn.rcs.net.ar/mnp/espn/output.mpd
-#EXTINF:-1 ,Espn2
-https://delivery.cdn.rcs.net.ar/mnp/espn2/output.mpd
-#EXTINF:-1 ,Espn3
-https://delivery.cdn.rcs.net.ar/mnp/espn3/output.mpd
-#EXTINF:-1 ,Espn extra
-https://delivery.cdn.rcs.net.ar/mnp/espn_extra/output.mpd
-#EXTINF:-1 ,Animal Planet
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Animal_Planet/SA_DASH/Animal_Planet.mpd
-#EXTINF:-1 ,AXN
-https://delivery.cdn.rcs.net.ar/mnp/axn/output.mpd
-#EXTINF:-1 ,Cinemax
-https://delivery.cdn.rcs.net.ar/mnp/cinemax/output.mpd
-#EXTINF:-1 ,Comedy Central
-https://delivery.cdn.rcs.net.ar/mnp/comedy/output.mpd
-#EXTINF:-1 ,Discovery
-https://delivery.cdn.rcs.net.ar/mnp/discovery/output.mpd
-#EXTINF:-1 ,Discovery H&H
-https://delivery.cdn.rcs.net.ar/mnp/disc_hh/output.mpd
-#EXTINF:-1 ,Discovery ID
-https://router.cdn.rcs.net.ar/mnp/dsc_id/output.mpd
-#EXTINF:-1 ,Discovery SCI
-https://delivery.cdn.rcs.net.ar/mnp/dsc_sci/output.mpd
-#EXTINF:-1 ,Discovery Turbo
-https://delivery.cdn.rcs.net.ar/mnp/dsc_turbo/output.mpd
-#EXTINF:-1 ,Discovery World
-https://delivery.cdn.rcs.net.ar/mnp/disc_world/output.mpd
-#EXTINF:-1,History
-https://delivery.cdn.rcs.net.ar/mnp/history/output.mpd
-#EXTINF:-1,Paramount
-http://delivery.cdn.rcs.net.ar/mnp/paramount/output.mpd
-#EXTINF:-1 ,Star Channel
-https://delivery.cdn.rcs.net.ar/mnp/foxhd/output.mpd
-#EXTINF:-1,investigation
-https://delivery.cdn.rcs.net.ar/mnp/id/output.mpd
-#EXTINF:-1 ,Space
-https://delivery.cdn.rcs.net.ar/mnp/space/output.mpd
-#EXTINF:-1 ,Syfy
-https://delivery.cdn.rcs.net.ar/mnp/syfy/output.mpd
-#EXTINF:-1 ,TNT
-https://delivery.cdn.rcs.net.ar/iptelva/tnt/output.mpd
-#EXTINF:-1 ,TCM
-http://chromecast.stg.cvattv.com.ar/live/live2/TNT/SA_Live_fta/TNT.m3u8
-#EXTINF:-1 ,AMC
-https://delivery.cdn.rcs.net.ar/mnp/amc/output.mpd
-#EXTINF:-1 ,FX
-http://chromecast.stg.cvattv.com.ar/live/live2/FXHD/SA_Live_fta/FXHD.m3u8
-#EXTINF:-1 ,HBO
-https://delivery.cdn.rcs.net.ar/mnp/hbo/output.mpd
-#EXTINF:-1 ,HBO 2
-https://delivery.cdn.rcs.net.ar/mnp/hbo2/output.mpd
-#EXTINF:-1 ,HBO +
-https://delivery.cdn.rcs.net.ar/mnp/hboplus/output.mpd
-#EXTINF:-1 ,HBO Extreme
-https://delivery.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
-#EXTINF:-1 ,HBO Family
-https://delivery.cdn.rcs.net.ar/mnp/hbofam/output.mpd
-#EXTINF:-1 ,HBO Mundi
-https://delivery.cdn.rcs.net.ar/mnp/hbomund/output.mpd
-#EXTINF:-1 ,HBO Pop
-https://delivery.cdn.rcs.net.ar/mnp/hbopop/output.mpd
-#EXTINF:-1 ,HBO Signature
-https://delivery.cdn.rcs.net.ar/mnp/hbosig/output.mpd
-#EXTINF:-1 ,TNT
-https://delivery.cdn.rcs.net.ar/iptelva/tnt/output.mpd
-#EXTINF:-1 ,TNT Series
-https://delivery.cdn.rcs.net.ar/mnp/tntseries/output.mpd
-#EXTINF:-1 ,Universal Channel
-https://delivery.cdn.rcs.net.ar/mnp/universal/output.mpd
-#EXTINF:-1 ,Warner
-https://delivery.cdn.rcs.net.ar/mnp/warner/output.mpd
-#EXTINF:-1 ,Cartoon Network
-https://delivery.cdn.rcs.net.ar/anevia/live/localdisk/Cartoon_Network/SA_DASH/Cartoon_Network.mpd
-#EXTINF:-1 ,Cartoonito
-https://delivery.cdn.rcs.net.ar/mnp/boomerang/output.mpd
-#EXTINF:-1 ,Discovery Kids
-https://delivery.cdn.rcs.net.ar/mnp/disc_kids/output.mpd
-#EXTINF:-1 ,Disney Channel
-https://delivery.cdn.rcs.net.ar/mnp/disney/output.mpd
-#EXTINF:-1 ,Disney JR
-https://delivery.cdn.rcs.net.ar/mnp/disneyjr/output.mpd
-#EXTINF:-1 ,Nickelodeon
-https://delivery.cdn.rcs.net.ar/mnp/nickelodeon/output.mpd
-#EXTINF:-1 ,Tooncast
-https://delivery.cdn.rcs.net.ar/mnp/tooncast/output.mpd
-#EXTINF:-1 ,A24
-https://delivery.cdn.rcs.net.ar/mnp/a24/output.mpd
-#EXTINF:-1 ,C5N
-https://delivery.cdn.rcs.net.ar/mnp/c5n/output.mpd
-#EXTINF:-1 ,Canal 9
-https://delivery.cdn.rcs.net.ar/mnp/elnueve/output.mpd
-#EXTINF:-1 ,Canal 13
-https://delivery.cdn.rcs.net.ar/mnp/el13/output.mpd
-#EXTINF:-1 ,Telefe
-https://router.cdn.rcs.net.ar/iptelva/ch8cba/output.mpd
-#EXTINF:-1 ,espn (2)
-https://ayf.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
-#EXTINF:-1 ,cronica
-https://el4live1.boldmss.com/CRONICA/CRONICA.isml/CRONICA.mpd
-#EXTINF:-1 ,TN
-http://chromecast.stg.cvattv.com.ar/live/live2/TodoNoticias/SA_Live_fta/ TodoNoticias.m3u8
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+#EXTINF:-1 ,america
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+
+https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8|User-Agent=Mozilla/5.0&Referer=https://www.americatv.com.ar
+
+
