@@ -3,7 +3,21 @@
 #EXTINF:-1,America TV
 https://prepublish.f.qaotic.net/a07/americahls-100056/playlist_720p.m3u8|User-Agent=Mozilla/5.0 (Linux; Android 10; VOG-L29) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Mobile Safari/537.36 OPR/76.2.4027.73374
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Telefe_%28nuevo_logo%29.png/500px-Telefe_%28nuevo_logo%29.png" ,Telefe
 
+https://router.cdn.rcs.net.ar/iptelva/america/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Eltrece_logotipo_2018.png" ,El Trece
+
+https://router.cdn.rcs.net.ar/mnp/americatv/output.mpd
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/Televisi%C3%B3n_P%C3%BAblica_%28Argentina_2021%29.png" ,TV Pública
+
+https://router.cdn.rcs.net.ar/mnp/america/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3a/Canal_9_2015.png" ,Canal 9
+
+https://router.cdn.rcs.net.ar/mnp/america_hls/playlist.m3u8
 
 
 
