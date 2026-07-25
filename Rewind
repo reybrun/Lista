@@ -1,0 +1,9 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/ZpLSzNP9/rwd.png" ,Rewind
+
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canaldiez.com.ar/wp-content/uploads/2022/09/canal-diez_80.png" ,Canal 10 (Junin)
+
+https://g5.mc-hor.transport.edge-access.net/a10/ngrp:canal10junin-100056_all/canal10junin-100056_720p.m3u8|Referer=https://www.canaldiez.com.ar/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
