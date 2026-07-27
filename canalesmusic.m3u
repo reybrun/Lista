@@ -225,9 +225,9 @@ https://router.cdn.rcs.net.ar/mnp/warner/output.mpd
 
 https://router.cdn.rcs.net.ar/mnp/tcm/output.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" ,Studio Universal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7d1jpbFP/lifetimelogo.png" ,Lifetime
 
-https://router.cdn.rcs.net.ar/anevia/live/localdisk/Studio_Universal/SA_HLS/Studio_Universal.m3u8
+https://router.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/AMC_logo_2016.png" ,AMC
 
