@@ -49,9 +49,9 @@ https://router.cdn.rcs.net.ar/mnp/tcm/output.mpd
 
 https://router.cdn.rcs.net.ar/mnp/amc/output.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/YB4m2jw/stuni.jpg" ,Studio Universal
+#EXTINF:-1 tvg-logo="https://i.ibb.co/S43KqqHd/universal56.png" ,Lifetime
 
-https://router.cdn.rcs.net.ar/mnp/studiouniversal/output.mpd
+https://router.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/S43KqqHd/universal56.png" ,Universal TV
 
@@ -85,9 +85,7 @@ https://router.cdn.rcs.net.ar/mnp/hbomund/output.mpd
 
 https://router.cdn.rcs.net.ar/mnp/hboxtr/output.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/jLKzQWw/splogo555556.png" ,South Park
 
-http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 
 
