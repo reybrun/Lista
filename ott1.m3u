@@ -2,10 +2,10 @@
 
 #EXTINF:-1,America TV
 
-https://router.cdn.rcs.net.ar/mnp/america/output.mpd
+https://router.cdn.rcs.net.ar/mnp/lifetime/output.mpd
 
 #EXTINF:-1,tnt
 
-http://chromecast.stg.cvattv.com.ar/live/live2/TNT/SA_Live_fta/TNT.m3u8
+https://router.cdn.rcs.net.ar/mnp/lifetime_hls/playlist.m3u8
 
 
