@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/156_Rewind.png" ,Rewind
+#EXTINF:-1 tvg-logo="https://i.ibb.co/TxJDZTpB/rwndlogo.png" ,Rewind
 
 https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
 
