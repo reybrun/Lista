@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1 tvg-logo="https://cdn.m3u.cl/logo/156_Rewind.png" ,Rewind
+
+https://tls-cl.cdnz.cl/rewindtv/live/chunklist.m3u8
 
 #EXTINF:-1 tvg-logo="https://musicboxclassic.com/music_box_classic_logo.png" ,Music Box Classic
 
@@ -37,37 +40,29 @@ https://1840571692.rsc.cdn77.org/1840571692/tracks-v1a1/mono.m3u8
 
 https://9ea6ba0f84904cf4b17433f6a489638b.mediatailor.us-east-1.amazonaws.com/v1/master/0fb304b2320b25f067414d481a779b77db81760d/Samsung-it_HipHopTV/playlist.m3u8?ads.wurl_channel=1366&ads.wurl_name=HipHopTV&ads.coppa=0&ads.psid=%7BPSID%7D&ads.targetopt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.consent=%7BTC_STRING%7D
 
-#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO 70s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRd6RMGh/vevologo5456.png" ,VEVO 70s
 
 https://aka-live1050.delivery.roku.com/6d5c246a-08f3-480e-8de3-89d8a9130921/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO 90s
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRd6RMGh/vevologo5456.png" ,VEVO 90s
 
 https://aka-live1050.delivery.roku.com/937c45fe-d273-4186-82c2-7e987ef5ce02/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO 2K
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRd6RMGh/vevologo5456.png" ,VEVO 2K
 
 https://aka-live1050.delivery.roku.com/91a7a549-6c7a-43cd-a80c-00445443ccbd/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO Rock
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRd6RMGh/vevologo5456.png" ,VEVO Rock
 
 https://d2lyea6if8kkz9.cloudfront.net/playlist/amg00056-vevotv-vevoretrorockau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO Hip-Hop
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRd6RMGh/vevologo5456.png" ,VEVO Hip-Hop
 
 https://aka-live1050.delivery.roku.com/04bfc270-3919-495e-a61d-39814ab58131/t2-origin/out/v1/live.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.rockstonecreatives.com/wp-content/uploads/2013/12/vevo-logo-website-1024x258.png" ,VEVO Retro Rock
+#EXTINF:-1 tvg-logo="https://i.ibb.co/JRd6RMGh/vevologo5456.png" ,VEVO Retro Rock
 
 https://d2hdqrshyzxswl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-neu8sqvbxozkb/Vevo_Retro_Rock.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.ssai_vendor=SSSLIVE&ads.afsdk_params=%7BAFSDK_VALUE%7D&ads.service_id=USBD3000145P
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/FbwN0JYt/mtvcla.png" ,MTV Classic (US)
-
-http://fl2.moveonjoy.com/MTV_CLASSIC/index.m3u8
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/v618GNQx/ZLR32yr-G-400x400.jpg" ,MTV Live
-
-http://fl2.moveonjoy.com/MTV_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/gFSLV89x/caro2logo.png" ,Carolina 2
 
