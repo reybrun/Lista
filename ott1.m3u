@@ -2,24 +2,48 @@
 
 #EXTINF:-1,America TV
 
-https://router.cdn.rcs.net.ar/mnp/lifetime/output.mpd
+https://router.cdn.rcs.net.ar/mnp/americatv_hls/playlist.m3u8
 
 #EXTINF:-1,tn
 
-https://router.cdn.rcs.net.ar/mnp/todonoticias/output.mpd
+https://router.cdn.rcs.net.ar/mnp/america_hls/playlist.m3u8
 
 #EXTINF:-1,a24
 
-https://router.cdn.rcs.net.ar/mnp/a24/output.mpd
+https://router.cdn.rcs.net.ar/mnp/america24/output.mpd
 
 #EXTINF:-1,cronica
 
-https://router.cdn.rcs.net.ar/mnp/cronicatv/output.mpd
+https://router.cdn.rcs.net.ar/mnp/america2/output.mpd
 
 #EXTINF:-1,ln
 
-https://router.cdn.rcs.net.ar/mnp/ln/output.mpd
+https://router.cdn.rcs.net.ar/mnp/canal2_hls/playlist.m3u8
 
 #EXTINF:-1,lna
 
-https://router.cdn.rcs.net.ar/mnp/lanacion/output.mpd
+https://router.cdn.rcs.net.ar/mnp/canal2/output.mpd
+
+#EXTINF:-1,cro
+
+https://is-tucuman.cdn.rcs.net.ar/mnp/cronica_hls/playlist.m3u8
+
+#EXTINF:-1,cro5445
+
+https://ayf.cdn.rcs.net.ar/mnp/espnpremium_hls/playlist.m3u8
+
+#EXTINF:-1,cro4858484848
+
+https://ayf.cdn.rcs.net.ar/mnp/espnpremium/output.mpd
+
+#EXTINF:-1,cro48
+
+https://ayf.cdn.rcs.net.ar/mnp/tntsports_hls/playlist.m3u8
+
+#EXTINF:-1,cro48tyy
+
+https://ayf.cdn.rcs.net.ar/mnp/tntsports/output.mpd
+
+#EXTINF:-1,cro48tyy6666
+
+https://ayf.cdn.rcs.net.ar/mnp/america_hls/playlist.m3u8
