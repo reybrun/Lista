@@ -141,7 +141,7 @@ http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/telefe_720.m3u8
 
 https://live-04-11-tyc24.vodgc.net/tyc24/index_tyc24_1080.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/800px-TN_todo_noticias_logo.svg.png" ,TN
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/TN_todo_noticias_logo.svg/500px-TN_todo_noticias_logo.svg.png" ,TN
 
 http://190.104.226.30/Live/870787012c00961adaf9b2304d704b57/tn_720.m3u8
 
@@ -269,7 +269,7 @@ https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_ID/SA_HLS/Discover
 
 https://router.cdn.rcs.net.ar/anevia/live/localdisk/Discovery_HGTV/SA_HLS/Discovery_HGTV.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/471?cb=20211213232008&path-prefix=es" ,History
+#EXTINF:-1 tvg-logo="https://i.ibb.co/m5rfs0pX/History-Logo.png" ,History
 
 https://router.cdn.rcs.net.ar/mnp/history/output.mpd
 
